@@ -109,13 +109,6 @@ The scripts are now organized around repository-relative paths, but a fresh clon
 - SI notes, tables, and assembly scripts
 - selected main-text figure assets
 
-## What is intentionally excluded
-
-- heavy raw data files by default
-- Word drafts
-- temporary cache files
-- large working directories that are not needed to understand the analysis pipeline
-
 ## Related documentation
 
 - `docs/manifests/repository_manifest.md`
