@@ -1,0 +1,32 @@
+Final ageing-energy SDG relevance framework
+
+Embedding-based similarity:
+Base semantic relevance weights were taken from the embedding model all-MiniLM-L6-v2.
+Each SDG target text was embedded and compared to the combined ageing-energy reference corpus using cosine similarity.
+Embedding similarities were normalized to [0,1].
+
+Policy constraint filter:
+A binary policy filter was applied to each SDG target text.
+Targets were retained if the official target text contained at least one ageing/vulnerability policy concept or at least one energy/environment policy concept from the predefined dictionary.
+The filter ensures semantic similarity is constrained by interpretable policy relevance conditions.
+
+Final weight construction:
+weight_final = weight_embedding * filter
+Filtered weights were then re-normalized across retained targets to [0,1], while excluded targets were assigned 0.
+
+Index formula:
+A_d = sum(w_j^(final) * I_dj) / sum(I_dj)
+where I_dj = 1 when document d is associated with target j and 0 otherwise.
+Documents with no matched retained targets were kept in the document table with missing normalized final index values.
+
+Stability checks:
+Spearman embedding vs final = 0.6961
+Spearman TF-IDF vs final = 0.5045
+Top-10 overlap embedding vs final = 0.80
+Top-10 overlap TF-IDF vs final = 0.40
+Country-level Spearman embedding index vs final index = 0.8734
+
+Interpretation:
+The final framework does not replace semantic similarity. It constrains the embedding-based relevance model using explicit policy relevance conditions to improve interpretability and reduce unstable rankings driven by semantically broad but policy-irrelevant targets.
+Targets retained after filtering: 25
+Stability improvement relative to the previous embedding comparison: yes

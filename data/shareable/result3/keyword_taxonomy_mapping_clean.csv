@@ -1,0 +1,58 @@
+keyword,category,mechanism_relevance,confidence
+agriculture,,medium,low
+health,health and vulnerability,high,high
+economic,affordability and income constraints,medium,medium
+education,,medium,low
+social,welfare and care,medium,medium
+child,welfare and care,medium,medium
+climate change,energy transition and efficiency,high,high
+business,,medium,low
+air pollution,energy transition and efficiency,high,high
+community,household behaviour and adoption,medium,medium
+city,housing and thermal comfort,medium,medium
+aid,affordability and income constraints,medium,medium
+economy,affordability and income constraints,medium,medium
+right,welfare and care,medium,medium
+care,welfare and care,high,high
+sustainable,energy transition and efficiency,medium,medium
+human,,medium,low
+affordable housing,housing and thermal comfort,high,high
+abuse,health and vulnerability,medium,medium
+biodiversity,,medium,low
+food,,medium,low
+crisis,,medium,low
+poverty,affordability and income constraints,high,high
+environmental,energy transition and efficiency,medium,medium
+age,health and vulnerability,high,high
+security,health and vulnerability,medium,medium
+pandemic,health and vulnerability,medium,medium
+growth,,medium,low
+woman,welfare and care,medium,medium
+agricultural,,medium,low
+climate,energy transition and efficiency,high,high
+financial,affordability and income constraints,high,high
+gender,welfare and care,medium,medium
+reform,,medium,low
+accessibility,health and vulnerability,high,high
+people,household behaviour and adoption,medium,medium
+future,,medium,low
+cost,affordability and income constraints,high,high
+employment,affordability and income constraints,medium,medium
+energy,energy transition and efficiency,high,high
+water,,high,low
+market,affordability and income constraints,medium,medium
+resilience,health and vulnerability,high,high
+capacity,,medium,low
+challenge,,medium,low
+sector,,medium,low
+adult,health and vulnerability,high,high
+carbon,energy transition and efficiency,high,high
+household,household behaviour and adoption,high,high
+fuel,energy transition and efficiency,high,high
+electricity,energy transition and efficiency,high,high
+developmental,,medium,low
+energy poverty,affordability and income constraints,high,high
+covid,health and vulnerability,medium,medium
+fuel poverty,affordability and income constraints,high,high
+retrofit,housing and thermal comfort,high,high
+thermal comfort,housing and thermal comfort,high,high

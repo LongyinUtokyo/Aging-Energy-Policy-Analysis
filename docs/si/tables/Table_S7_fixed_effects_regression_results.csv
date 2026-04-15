@@ -1,0 +1,2 @@
+model_group,model,term,coefficient,std_error,p_value,r_squared,N
+ageing_alignment_fe,index_on_oadr_fe,OADR,0.005803079786807593,0.002742268186708749,0.03433115414962419,0.216561471207346,1745

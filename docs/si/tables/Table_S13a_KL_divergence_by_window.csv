@@ -1,0 +1,12 @@
+time_window,phase,window_midyear,kl_divergence,q_definition
+1972_1976,Phase 3,1974,0.4881623396085721,equal-weight baseline across the six taxonomy categories
+1977_1981,Phase 3,1979,0.3892707240324798,equal-weight baseline across the six taxonomy categories
+1982_1986,Phase 3,1984,0.2935439347819296,equal-weight baseline across the six taxonomy categories
+1987_1991,Phase 3,1989,0.2378862139574703,equal-weight baseline across the six taxonomy categories
+1992_1996,Phase 3,1994,0.3267150768340402,equal-weight baseline across the six taxonomy categories
+1997_2001,Phase 4,1999,0.2522990833433307,equal-weight baseline across the six taxonomy categories
+2002_2006,Phase 4,2004,0.188151966093221,equal-weight baseline across the six taxonomy categories
+2007_2011,Phase 4,2009,0.1415788895892082,equal-weight baseline across the six taxonomy categories
+2012_2016,Phase 4,2014,0.1222259899359666,equal-weight baseline across the six taxonomy categories
+2017_2020,Phase 4,2018,0.1043696120608658,equal-weight baseline across the six taxonomy categories
+2021_2024,Phase 4,2022,0.1460939416632973,equal-weight baseline across the six taxonomy categories

@@ -1,0 +1,43 @@
+Methods note: Overton SDG analysis
+=================================
+
+1. Data loading and deduplication
+- Two Overton CSV exports were loaded and concatenated.
+- Duplicate records were removed using `Overton id`, keeping the first occurrence.
+- `Published_on` was parsed as a date and converted into a numeric `Year` variable.
+- The cleaned full dataset retains all years, including 2025 and 2026.
+
+2. Phase definition
+- Phase 1: 1869-1947
+- Phase 2: 1948-1971
+- Phase 3: 1972-1993
+- Phase 4: 1994-2024
+- Documents from 2025-2026 were retained in the cleaned data but excluded from phase-based time-series analyses by leaving `Phase` empty and setting `Time_series_included = False`.
+
+3. SDG parsing
+- The `Related to SDGs` field was split on the pipe delimiter (`|`).
+- Tokens matching `SDG X: ...` were treated as goal-level codes and stored as `X`.
+- Tokens matching `SDG Target X.Y` or `SDG Target X.a` were treated as detailed target-level codes and stored exactly as the extracted code (for example `1.1`, `11.2`, `1.a`).
+- The goal-level variable `SDG_goal` was created by mapping each parsed code to its parent goal number. For detailed targets, the parent goal is the substring before the first period. Examples: `1.1 -> SDG 1`, `1.2 -> SDG 1`, `11.2 -> SDG 11`.
+- Goal-level long tables were deduplicated to one document-goal pair, so repeated references to the same goal within a single document do not inflate goal counts.
+
+4. Missing SDG handling
+- Empty or missing `Related to SDGs` cells were treated as missing SDG data.
+- Documents with missing SDG information were kept in `cleaned_data` but excluded from the SDG long tables and all SDG-based calculations.
+- In this dataset, 32,253 of 167,309 deduplicated documents had missing or empty SDG information.
+
+5. Metrics
+- Distribution tables report document-SDG pair counts and percentage shares.
+- Impact is the sum of `Policy citations (excl. same source)`.
+- Average impact per document equals total impact divided by document count.
+- Efficiency is defined as impact divided by count and is numerically identical to average impact per document.
+- Concentration metrics include Top1, Top5, Top10 shares and the Gini coefficient, computed separately for document counts and citation-based impact.
+
+6. Diffusion and HHI module
+- The diffusion module uses SDG goal level only.
+- Yearly diffusion calculations use the time-series subset, excluding 2025 and 2026 because those years may be incomplete.
+- `Country_count_(g,t)` is the number of distinct countries with at least one document linked to SDG goal `g` in year `t`.
+- `Diffusion_speed_(g,t)` is the annual change in country participation relative to year `t-1`.
+- `New_country_count_(g,t)` counts first-time country entries into SDG goal `g` across the full observed time series.
+- `Diffusion_intensity_(g,t)` equals `Country_count_(g,t) / Total_countries_t`, where `Total_countries_t` is the number of distinct countries appearing anywhere in the dataset in year `t`.
+- `HHI_count` and `HHI_impact` are computed within each goal-year using country shares based on document counts and citation impact, respectively.

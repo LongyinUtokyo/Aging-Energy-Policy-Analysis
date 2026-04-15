@@ -1,0 +1,23 @@
+Figure 1 quantitative interpretation
+
+Panel A–B: Policy production expanded from low and fragmented levels before 1994 into a rapid growth regime after 1994. Phase 4 contains 153,454 documents with an average of 4950.1 per year. The five peak years are 2021 (11,373), 2019 (10,664), 2022 (10,558), 2023 (10,499), 2020 (9,874).
+
+Panel C: The post-1994 period shows a CAGR of 11.16% with the largest one-year jump in 2021 (+1,499). Output expanded rapidly while source composition remained structured around a limited set of major actors, especially USA, UK, EU, and IGO.
+
+Panels D–G: Spatial coverage widened sharply by Phase 4, but regional participation remained uneven. Earlier phases were sparse, while Phase 4 combined high country participation with strong regional asymmetry.
+
+Panel H: In Phase 4, policy production diffused more broadly than policy influence. Count top-10 share is 0.85, whereas impact top-10 share is 0.93. Count Gini/HHI = 0.920/0.223; impact Gini/HHI = 0.956/0.265.
+
+Demographic mismatch: high-ageing countries with relatively weak policy attention include Belarus, Bosnia and Herzegovina, Bulgaria, Monaco, San Marino.
+
+EU / supranational explanation: EU-level policy documents show a mean ageing-energy index of 0.503, compared with an average of 0.482 across the selected EU member states. The EU also records 5145 documents and 18678 total impact, which places it above all individual member states in scale. This suggests that EU-level policy is more ageing-energy aligned than the average national policy level in Europe. Among major member states, Spain has the highest mean alignment (0.542), while the Netherlands is the lowest (0.363).
+
+Suggested Results wording: Policy production expanded substantially after 1994 and diffused across a much wider set of countries, but influence remained more concentrated than output. High-ageing countries were not uniformly the most visible policy producers, indicating a persistent demographic-policy mismatch even in the mature phase of expansion.
+
+Phase 1: 250 documents, 2 active countries, mean Gini 0.019. This phase reflects a smaller and more concentrated policy system.
+
+Phase 2: 188 documents, 4 active countries, mean Gini 0.232. This phase reflects a smaller and more concentrated policy system.
+
+Phase 3: 665 documents, 10 active countries, mean Gini 0.420. This phase reflects a smaller and more concentrated policy system.
+
+Phase 4: 98,822 documents, 125 active countries, mean Gini 0.835. This phase marks broad diffusion with persistent concentration.

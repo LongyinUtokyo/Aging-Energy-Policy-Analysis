@@ -1,0 +1,5 @@
+model_group,model,term,coefficient,std_error,p_value,r_squared,N
+impact_relevance,impact_on_index,mean_ageing_energy_index_final_v2,0.3101697330530365,0.1468952209148748,0.03472908080419076,0.001175734060736122,1745
+impact_relevance,efficiency_on_index,mean_ageing_energy_index_final_v2,-0.03301456277248646,0.4419100841487733,0.9404464226403555,1.813522789495536e-06,1745
+impact_relevance,impact_on_index_count,mean_ageing_energy_index_final_v2,-0.1028523502146308,0.09687826829889548,0.2883874024130184,0.6689573356375977,1745
+impact_relevance,impact_on_index_count,log_count_plus1,1.141266425459287,0.01985128000210491,0.0,0.6689573356375977,1745
