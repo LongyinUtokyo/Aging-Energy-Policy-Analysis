@@ -1,5 +1,4 @@
-# Global ageing-energy policy expands in scale but not in substance<img width="432" height="48" alt="image" src="https://github.com/user-attachments/assets/3cccf9b9-7395-4ee5-82dd-bf87f98a2ed9" />
-
+# Global ageing-energy policy expands in scale but not in substance
 
 This repository is the GitHub-ready code and compact-data package for the article-level workflow behind the main results and supplementary analyses.
 
