@@ -1,0 +1,805 @@
+Country,category,term_frequency,TopicShare,TopicShare_pct
+Afghanistan,Affordability and income constraints,2,0.0096153846153846,0.962
+Afghanistan,Energy transition and efficiency,2,0.0096153846153846,0.962
+Afghanistan,Governance and planning,162,0.7788461538461539,77.885
+Afghanistan,Health and vulnerability,15,0.0721153846153846,7.212
+Afghanistan,Household behaviour and adoption,5,0.0240384615384615,2.404
+Afghanistan,Housing and thermal comfort,18,0.0865384615384615,8.654
+Afghanistan,Welfare and care,4,0.0192307692307692,1.923
+Albania,Governance and planning,22,0.9166666666666666,91.667
+Albania,Welfare and care,2,0.0833333333333333,8.333
+Andorra,Governance and planning,3,1.0,100.0
+Angola,Governance and planning,15,1.0,100.0
+Argentina,Affordability and income constraints,3,0.0222222222222222,2.222
+Argentina,Energy transition and efficiency,4,0.0296296296296296,2.963
+Argentina,Governance and planning,92,0.6814814814814815,68.148
+Argentina,Health and vulnerability,12,0.0888888888888888,8.889
+Argentina,Household behaviour and adoption,4,0.0296296296296296,2.963
+Argentina,Housing and thermal comfort,3,0.0222222222222222,2.222
+Argentina,Welfare and care,17,0.1259259259259259,12.593
+Armenia,Affordability and income constraints,2,0.1111111111111111,11.111
+Armenia,Energy transition and efficiency,1,0.0555555555555555,5.556
+Armenia,Governance and planning,11,0.6111111111111112,61.111
+Armenia,Household behaviour and adoption,2,0.1111111111111111,11.111
+Armenia,Welfare and care,2,0.1111111111111111,11.111
+Australia,Affordability and income constraints,299,0.0080974949221394,0.81
+Australia,Energy transition and efficiency,436,0.0118077183480027,1.181
+Australia,Governance and planning,31009,0.8397833446174678,83.978
+Australia,Health and vulnerability,1034,0.0280027081922816,2.8
+Australia,Household behaviour and adoption,562,0.0152200406228842,1.522
+Australia,Housing and thermal comfort,2269,0.0614488828706838,6.145
+Australia,Welfare and care,1316,0.0356398104265402,3.564
+Austria,Affordability and income constraints,19,0.0048981696313482,0.49
+Austria,Energy transition and efficiency,62,0.0159835009022944,1.598
+Austria,Governance and planning,3546,0.91415313225058,91.415
+Austria,Health and vulnerability,35,0.0090229440577468,0.902
+Austria,Household behaviour and adoption,47,0.0121165248775457,1.212
+Austria,Housing and thermal comfort,46,0.0118587264758958,1.186
+Austria,Welfare and care,124,0.0319670018045888,3.197
+Azerbaijan,Energy transition and efficiency,2,0.125,12.5
+Azerbaijan,Governance and planning,13,0.8125,81.25
+Azerbaijan,Household behaviour and adoption,1,0.0625,6.25
+Bahamas,Affordability and income constraints,1,0.0088495575221238,0.885
+Bahamas,Governance and planning,102,0.9026548672566372,90.265
+Bahamas,Household behaviour and adoption,1,0.0088495575221238,0.885
+Bahamas,Housing and thermal comfort,7,0.0619469026548672,6.195
+Bahamas,Welfare and care,2,0.0176991150442477,1.77
+Bahrain,Energy transition and efficiency,1,0.025,2.5
+Bahrain,Governance and planning,37,0.925,92.5
+Bahrain,Household behaviour and adoption,2,0.05,5.0
+Bangladesh,Governance and planning,44,0.6875,68.75
+Bangladesh,Health and vulnerability,7,0.109375,10.938
+Bangladesh,Household behaviour and adoption,1,0.015625,1.562
+Bangladesh,Housing and thermal comfort,5,0.078125,7.812
+Bangladesh,Welfare and care,7,0.109375,10.938
+Barbados,Affordability and income constraints,4,0.0327868852459016,3.279
+Barbados,Governance and planning,115,0.9426229508196722,94.262
+Barbados,Health and vulnerability,1,0.0081967213114754,0.82
+Barbados,Household behaviour and adoption,1,0.0081967213114754,0.82
+Barbados,Housing and thermal comfort,1,0.0081967213114754,0.82
+Belarus,Governance and planning,38,0.9743589743589745,97.436
+Belarus,Household behaviour and adoption,1,0.0256410256410256,2.564
+Belgium,Affordability and income constraints,48,0.0094599921166732,0.946
+Belgium,Energy transition and efficiency,128,0.0252266456444619,2.523
+Belgium,Governance and planning,4171,0.8220338983050848,82.203
+Belgium,Health and vulnerability,111,0.0218762317698068,2.188
+Belgium,Household behaviour and adoption,73,0.0143870713441072,1.439
+Belgium,Housing and thermal comfort,53,0.01044540796216,1.045
+Belgium,Welfare and care,490,0.0965707528577059,9.657
+Belize,Affordability and income constraints,6,0.0384615384615384,3.846
+Belize,Governance and planning,137,0.8782051282051282,87.821
+Belize,Health and vulnerability,4,0.0256410256410256,2.564
+Belize,Household behaviour and adoption,1,0.0064102564102564,0.641
+Belize,Welfare and care,8,0.0512820512820512,5.128
+Benin,Governance and planning,14,1.0,100.0
+Bhutan,Energy transition and efficiency,6,0.0517241379310344,5.172
+Bhutan,Governance and planning,92,0.7931034482758621,79.31
+Bhutan,Health and vulnerability,9,0.0775862068965517,7.759
+Bhutan,Household behaviour and adoption,2,0.0172413793103448,1.724
+Bhutan,Housing and thermal comfort,4,0.0344827586206896,3.448
+Bhutan,Welfare and care,3,0.0258620689655172,2.586
+Bolivia,Governance and planning,8,0.8,80.0
+Bolivia,Welfare and care,2,0.2,20.0
+Bosnia and Herzegovina,Governance and planning,13,0.6190476190476191,61.905
+Bosnia and Herzegovina,Health and vulnerability,4,0.1904761904761904,19.048
+Bosnia and Herzegovina,Welfare and care,4,0.1904761904761904,19.048
+Botswana,Affordability and income constraints,3,0.0254237288135593,2.542
+Botswana,Energy transition and efficiency,1,0.0084745762711864,0.847
+Botswana,Governance and planning,103,0.8728813559322034,87.288
+Botswana,Health and vulnerability,4,0.0338983050847457,3.39
+Botswana,Household behaviour and adoption,1,0.0084745762711864,0.847
+Botswana,Housing and thermal comfort,1,0.0084745762711864,0.847
+Botswana,Welfare and care,5,0.0423728813559322,4.237
+Brazil,Affordability and income constraints,13,0.0232558139534883,2.326
+Brazil,Energy transition and efficiency,16,0.0286225402504472,2.862
+Brazil,Governance and planning,466,0.8336314847942755,83.363
+Brazil,Health and vulnerability,3,0.0053667262969588,0.537
+Brazil,Household behaviour and adoption,13,0.0232558139534883,2.326
+Brazil,Housing and thermal comfort,15,0.0268336314847942,2.683
+Brazil,Welfare and care,33,0.0590339892665474,5.903
+Brunei,Governance and planning,10,0.8333333333333334,83.333
+Brunei,Health and vulnerability,1,0.0833333333333333,8.333
+Brunei,Welfare and care,1,0.0833333333333333,8.333
+Bulgaria,Governance and planning,15,0.6,60.0
+Bulgaria,Health and vulnerability,3,0.12,12.0
+Bulgaria,Household behaviour and adoption,2,0.08,8.0
+Bulgaria,Welfare and care,5,0.2,20.0
+Burkina Faso,Governance and planning,2,1.0,100.0
+Burundi,Governance and planning,6,0.8571428571428571,85.714
+Burundi,Health and vulnerability,1,0.1428571428571428,14.286
+Cambodia,Affordability and income constraints,9,0.0323741007194244,3.237
+Cambodia,Governance and planning,241,0.8669064748201439,86.691
+Cambodia,Health and vulnerability,1,0.0035971223021582,0.36
+Cambodia,Household behaviour and adoption,5,0.0179856115107913,1.799
+Cambodia,Housing and thermal comfort,10,0.0359712230215827,3.597
+Cambodia,Welfare and care,12,0.0431654676258992,4.317
+Cameroon,Governance and planning,133,0.8986486486486487,89.865
+Cameroon,Health and vulnerability,8,0.054054054054054,5.405
+Cameroon,Household behaviour and adoption,1,0.0067567567567567,0.676
+Cameroon,Housing and thermal comfort,1,0.0067567567567567,0.676
+Cameroon,Welfare and care,5,0.0337837837837837,3.378
+Canada,Affordability and income constraints,460,0.0195287624708129,1.953
+Canada,Energy transition and efficiency,305,0.0129484185947781,1.295
+Canada,Governance and planning,18542,0.7871789428995967,78.718
+Canada,Health and vulnerability,1094,0.0464444916153682,4.644
+Canada,Household behaviour and adoption,378,0.0160475482912332,1.605
+Canada,Housing and thermal comfort,1505,0.0638930163447251,6.389
+Canada,Welfare and care,1271,0.0539588197834854,5.396
+Cape Verde,Governance and planning,28,0.8,80.0
+Cape Verde,Health and vulnerability,2,0.0571428571428571,5.714
+Cape Verde,Housing and thermal comfort,2,0.0571428571428571,5.714
+Cape Verde,Welfare and care,3,0.0857142857142857,8.571
+Chile,Governance and planning,124,0.9253731343283582,92.537
+Chile,Household behaviour and adoption,2,0.0149253731343283,1.493
+Chile,Housing and thermal comfort,1,0.0074626865671641,0.746
+Chile,Welfare and care,7,0.0522388059701492,5.224
+China,Affordability and income constraints,2,0.0023174971031286,0.232
+China,Energy transition and efficiency,12,0.0139049826187717,1.39
+China,Governance and planning,724,0.8389339513325609,83.893
+China,Health and vulnerability,6,0.0069524913093858,0.695
+China,Household behaviour and adoption,29,0.033603707995365,3.36
+China,Housing and thermal comfort,22,0.0254924681344148,2.549
+China,Welfare and care,68,0.0787949015063731,7.879
+Colombia,Energy transition and efficiency,1,0.0085470085470085,0.855
+Colombia,Governance and planning,103,0.8803418803418803,88.034
+Colombia,Health and vulnerability,2,0.017094017094017,1.709
+Colombia,Household behaviour and adoption,1,0.0085470085470085,0.855
+Colombia,Housing and thermal comfort,6,0.0512820512820512,5.128
+Colombia,Welfare and care,4,0.0341880341880341,3.419
+Costa Rica,Energy transition and efficiency,1,0.0769230769230769,7.692
+Costa Rica,Governance and planning,12,0.9230769230769232,92.308
+Croatia,Affordability and income constraints,1,0.01,1.0
+Croatia,Governance and planning,91,0.91,91.0
+Croatia,Housing and thermal comfort,1,0.01,1.0
+Croatia,Welfare and care,7,0.07,7.0
+Cuba,Governance and planning,5,1.0,100.0
+Cyprus,Governance and planning,210,0.9502262443438914,95.023
+Cyprus,Health and vulnerability,5,0.0226244343891402,2.262
+Cyprus,Welfare and care,6,0.0271493212669683,2.715
+Czech Republic,Affordability and income constraints,2,0.0051413881748071,0.514
+Czech Republic,Energy transition and efficiency,2,0.0051413881748071,0.514
+Czech Republic,Governance and planning,304,0.781491002570694,78.149
+Czech Republic,Health and vulnerability,5,0.0128534704370179,1.285
+Czech Republic,Household behaviour and adoption,1,0.0025706940874035,0.257
+Czech Republic,Housing and thermal comfort,20,0.0514138817480719,5.141
+Czech Republic,Welfare and care,55,0.1413881748071979,14.139
+Denmark,Affordability and income constraints,5,0.0077881619937694,0.779
+Denmark,Energy transition and efficiency,29,0.0451713395638629,4.517
+Denmark,Governance and planning,545,0.8489096573208723,84.891
+Denmark,Health and vulnerability,13,0.0202492211838006,2.025
+Denmark,Household behaviour and adoption,25,0.0389408099688473,3.894
+Denmark,Housing and thermal comfort,13,0.0202492211838006,2.025
+Denmark,Welfare and care,12,0.0186915887850467,1.869
+Dominican Republic,Governance and planning,3,0.75,75.0
+Dominican Republic,Housing and thermal comfort,1,0.25,25.0
+EU,Affordability and income constraints,658,0.0095659000377983,0.957
+EU,Energy transition and efficiency,1531,0.0222574361061843,2.226
+EU,Governance and planning,59436,0.8640711772744454,86.407
+EU,Health and vulnerability,622,0.0090425377256999,0.904
+EU,Household behaviour and adoption,881,0.0128078388044078,1.281
+EU,Housing and thermal comfort,1118,0.0162533073590556,1.625
+EU,Welfare and care,4540,0.0660018026924083,6.6
+Ecuador,Governance and planning,9,1.0,100.0
+Egypt,Affordability and income constraints,26,0.0869565217391304,8.696
+Egypt,Energy transition and efficiency,3,0.0100334448160535,1.003
+Egypt,Governance and planning,214,0.7157190635451505,71.572
+Egypt,Health and vulnerability,16,0.0535117056856187,5.351
+Egypt,Household behaviour and adoption,5,0.0167224080267558,1.672
+Egypt,Housing and thermal comfort,12,0.040133779264214,4.013
+Egypt,Welfare and care,23,0.0769230769230769,7.692
+El Salvador,Health and vulnerability,2,1.0,100.0
+Estonia,Affordability and income constraints,1,0.0040322580645161,0.403
+Estonia,Energy transition and efficiency,7,0.0282258064516129,2.823
+Estonia,Governance and planning,208,0.8387096774193549,83.871
+Estonia,Health and vulnerability,11,0.0443548387096774,4.435
+Estonia,Household behaviour and adoption,3,0.0120967741935483,1.21
+Estonia,Welfare and care,18,0.0725806451612903,7.258
+Eswatini,Governance and planning,262,0.9290780141843972,92.908
+Eswatini,Health and vulnerability,12,0.0425531914893617,4.255
+Eswatini,Household behaviour and adoption,1,0.0035460992907801,0.355
+Eswatini,Housing and thermal comfort,4,0.0141843971631205,1.418
+Eswatini,Welfare and care,3,0.0106382978723404,1.064
+Ethiopia,Affordability and income constraints,6,0.0175953079178885,1.76
+Ethiopia,Energy transition and efficiency,2,0.0058651026392961,0.587
+Ethiopia,Governance and planning,266,0.7800586510263929,78.006
+Ethiopia,Health and vulnerability,27,0.0791788856304985,7.918
+Ethiopia,Household behaviour and adoption,7,0.0205278592375366,2.053
+Ethiopia,Housing and thermal comfort,9,0.0263929618768328,2.639
+Ethiopia,Welfare and care,24,0.0703812316715542,7.038
+Fiji,Affordability and income constraints,2,0.0093457943925233,0.935
+Fiji,Energy transition and efficiency,1,0.0046728971962616,0.467
+Fiji,Governance and planning,165,0.7710280373831776,77.103
+Fiji,Health and vulnerability,24,0.1121495327102803,11.215
+Fiji,Housing and thermal comfort,8,0.0373831775700934,3.738
+Fiji,Welfare and care,14,0.0654205607476635,6.542
+Finland,Affordability and income constraints,55,0.0346129641283826,3.461
+Finland,Energy transition and efficiency,21,0.013215859030837,1.322
+Finland,Governance and planning,1269,0.7986154814348647,79.862
+Finland,Health and vulnerability,76,0.0478288231592196,4.783
+Finland,Household behaviour and adoption,36,0.0226557583385777,2.266
+Finland,Housing and thermal comfort,23,0.0144745122718691,1.447
+Finland,Welfare and care,109,0.0685966016362492,6.86
+France,Affordability and income constraints,154,0.0206075204067978,2.061
+France,Energy transition and efficiency,130,0.0173959587849591,1.74
+France,Governance and planning,6382,0.8540077612739194,85.401
+France,Health and vulnerability,239,0.0319818011508095,3.198
+France,Household behaviour and adoption,200,0.0267630135153218,2.676
+France,Housing and thermal comfort,153,0.0204737053392211,2.047
+France,Welfare and care,215,0.0287702395289709,2.877
+Gambia,Energy transition and efficiency,1,0.0303030303030303,3.03
+Gambia,Governance and planning,32,0.9696969696969696,96.97
+Georgia,Governance and planning,90,0.9090909090909092,90.909
+Georgia,Health and vulnerability,1,0.0101010101010101,1.01
+Georgia,Household behaviour and adoption,2,0.0202020202020202,2.02
+Georgia,Housing and thermal comfort,1,0.0101010101010101,1.01
+Georgia,Welfare and care,5,0.0505050505050505,5.051
+Germany,Affordability and income constraints,180,0.0269622528460155,2.696
+Germany,Energy transition and efficiency,237,0.0355002995805871,3.55
+Germany,Governance and planning,5256,0.7872977831036548,78.73
+Germany,Health and vulnerability,232,0.0347513481126423,3.475
+Germany,Household behaviour and adoption,177,0.0265128819652486,2.651
+Germany,Housing and thermal comfort,184,0.0275614140203714,2.756
+Germany,Welfare and care,410,0.0614140203714799,6.141
+Ghana,Affordability and income constraints,1,0.0011185682326621,0.112
+Ghana,Energy transition and efficiency,2,0.0022371364653243,0.224
+Ghana,Governance and planning,793,0.8870246085011185,88.702
+Ghana,Health and vulnerability,43,0.0480984340044742,4.81
+Ghana,Household behaviour and adoption,1,0.0011185682326621,0.112
+Ghana,Housing and thermal comfort,20,0.0223713646532438,2.237
+Ghana,Welfare and care,34,0.0380313199105145,3.803
+Greece,Energy transition and efficiency,2,0.0074349442379182,0.743
+Greece,Governance and planning,252,0.9368029739776952,93.68
+Greece,Household behaviour and adoption,2,0.0074349442379182,0.743
+Greece,Housing and thermal comfort,7,0.0260223048327137,2.602
+Greece,Welfare and care,6,0.0223048327137546,2.23
+Guatemala,Governance and planning,10,0.7692307692307693,76.923
+Guatemala,Welfare and care,3,0.2307692307692307,23.077
+Guinea,Governance and planning,11,0.7857142857142857,78.571
+Guinea,Housing and thermal comfort,1,0.0714285714285714,7.143
+Guinea,Welfare and care,2,0.1428571428571428,14.286
+Guyana,Affordability and income constraints,4,0.0206185567010309,2.062
+Guyana,Energy transition and efficiency,2,0.0103092783505154,1.031
+Guyana,Governance and planning,171,0.8814432989690721,88.144
+Guyana,Health and vulnerability,9,0.0463917525773195,4.639
+Guyana,Household behaviour and adoption,3,0.0154639175257731,1.546
+Guyana,Housing and thermal comfort,2,0.0103092783505154,1.031
+Guyana,Welfare and care,3,0.0154639175257731,1.546
+Haiti,Governance and planning,8,1.0,100.0
+Hungary,Affordability and income constraints,5,0.0147492625368731,1.475
+Hungary,Energy transition and efficiency,3,0.0088495575221238,0.885
+Hungary,Governance and planning,308,0.9085545722713864,90.855
+Hungary,Health and vulnerability,1,0.0029498525073746,0.295
+Hungary,Household behaviour and adoption,4,0.0117994100294985,1.18
+Hungary,Housing and thermal comfort,6,0.0176991150442477,1.77
+Hungary,Welfare and care,12,0.0353982300884955,3.54
+IGO,Affordability and income constraints,3951,0.0188177804449397,1.882
+IGO,Energy transition and efficiency,3079,0.0146646281928548,1.466
+IGO,Governance and planning,175339,0.8351027095508213,83.51
+IGO,Health and vulnerability,8391,0.0399645648477574,3.996
+IGO,Household behaviour and adoption,3470,0.0165268788013011,1.653
+IGO,Housing and thermal comfort,4688,0.0223279561442363,2.233
+IGO,Welfare and care,11043,0.052595482018089,5.26
+Iceland,Affordability and income constraints,2,0.0571428571428571,5.714
+Iceland,Governance and planning,30,0.8571428571428571,85.714
+Iceland,Health and vulnerability,1,0.0285714285714285,2.857
+Iceland,Household behaviour and adoption,1,0.0285714285714285,2.857
+Iceland,Welfare and care,1,0.0285714285714285,2.857
+India,Affordability and income constraints,38,0.0187376725838264,1.874
+India,Energy transition and efficiency,36,0.0177514792899408,1.775
+India,Governance and planning,1725,0.8505917159763313,85.059
+India,Health and vulnerability,74,0.0364891518737672,3.649
+India,Household behaviour and adoption,37,0.0182445759368836,1.824
+India,Housing and thermal comfort,50,0.02465483234714,2.465
+India,Welfare and care,68,0.0335305719921104,3.353
+Indonesia,Affordability and income constraints,32,0.0695652173913043,6.957
+Indonesia,Energy transition and efficiency,25,0.0543478260869565,5.435
+Indonesia,Governance and planning,346,0.7521739130434782,75.217
+Indonesia,Health and vulnerability,10,0.0217391304347826,2.174
+Indonesia,Household behaviour and adoption,5,0.0108695652173913,1.087
+Indonesia,Housing and thermal comfort,16,0.0347826086956521,3.478
+Indonesia,Welfare and care,26,0.0565217391304347,5.652
+Iran,Energy transition and efficiency,3,0.2307692307692307,23.077
+Iran,Governance and planning,9,0.6923076923076923,69.231
+Iran,Housing and thermal comfort,1,0.0769230769230769,7.692
+Iraq,Governance and planning,28,0.7368421052631579,73.684
+Iraq,Health and vulnerability,4,0.1052631578947368,10.526
+Iraq,Welfare and care,6,0.1578947368421052,15.789
+Ireland,Affordability and income constraints,229,0.0132438841015557,1.324
+Ireland,Energy transition and efficiency,276,0.0159620611879012,1.596
+Ireland,Governance and planning,14150,0.8183448036550807,81.834
+Ireland,Health and vulnerability,534,0.0308831183852871,3.088
+Ireland,Household behaviour and adoption,235,0.0135908854317274,1.359
+Ireland,Housing and thermal comfort,594,0.0343531316870048,3.435
+Ireland,Welfare and care,1273,0.0736221155514429,7.362
+Israel,Affordability and income constraints,6,0.0983606557377049,9.836
+Israel,Energy transition and efficiency,3,0.0491803278688524,4.918
+Israel,Governance and planning,38,0.6229508196721312,62.295
+Israel,Health and vulnerability,4,0.0655737704918032,6.557
+Israel,Household behaviour and adoption,2,0.0327868852459016,3.279
+Israel,Housing and thermal comfort,2,0.0327868852459016,3.279
+Israel,Welfare and care,6,0.0983606557377049,9.836
+Italy,Affordability and income constraints,7,0.005595523581135,0.56
+Italy,Energy transition and efficiency,50,0.0399680255795363,3.997
+Italy,Governance and planning,1039,0.8305355715427658,83.054
+Italy,Health and vulnerability,59,0.0471622701838529,4.716
+Italy,Household behaviour and adoption,36,0.0287769784172661,2.878
+Italy,Housing and thermal comfort,13,0.0103916866506794,1.039
+Italy,Welfare and care,47,0.0375699440447641,3.757
+Ivory Coast,Governance and planning,4,0.8,80.0
+Ivory Coast,Welfare and care,1,0.2,20.0
+Jamaica,Affordability and income constraints,1,0.0038167938931297,0.382
+Jamaica,Energy transition and efficiency,2,0.0076335877862595,0.763
+Jamaica,Governance and planning,230,0.8778625954198473,87.786
+Jamaica,Health and vulnerability,6,0.0229007633587786,2.29
+Jamaica,Household behaviour and adoption,1,0.0038167938931297,0.382
+Jamaica,Housing and thermal comfort,4,0.015267175572519,1.527
+Jamaica,Welfare and care,18,0.0687022900763358,6.87
+Japan,Affordability and income constraints,7,0.0053598774885145,0.536
+Japan,Energy transition and efficiency,28,0.0214395099540581,2.144
+Japan,Governance and planning,1206,0.9234303215926492,92.343
+Japan,Health and vulnerability,13,0.0099540581929555,0.995
+Japan,Household behaviour and adoption,10,0.007656967840735,0.766
+Japan,Housing and thermal comfort,13,0.0099540581929555,0.995
+Japan,Welfare and care,29,0.0222052067381317,2.221
+Jordan,Governance and planning,9,0.9,90.0
+Jordan,Health and vulnerability,1,0.1,10.0
+Kenya,Affordability and income constraints,22,0.0141297366730892,1.413
+Kenya,Energy transition and efficiency,24,0.0154142581888246,1.541
+Kenya,Governance and planning,1300,0.8349389852280026,83.494
+Kenya,Health and vulnerability,70,0.0449582530507386,4.496
+Kenya,Household behaviour and adoption,18,0.0115606936416184,1.156
+Kenya,Housing and thermal comfort,58,0.0372511239563262,3.725
+Kenya,Welfare and care,65,0.0417469492614001,4.175
+Kiribati,Energy transition and efficiency,2,0.0235294117647058,2.353
+Kiribati,Governance and planning,75,0.8823529411764706,88.235
+Kiribati,Health and vulnerability,2,0.0235294117647058,2.353
+Kiribati,Household behaviour and adoption,1,0.0117647058823529,1.176
+Kiribati,Housing and thermal comfort,3,0.0352941176470588,3.529
+Kiribati,Welfare and care,2,0.0235294117647058,2.353
+Kosovo,Energy transition and efficiency,12,0.052863436123348,5.286
+Kosovo,Governance and planning,198,0.8722466960352423,87.225
+Kosovo,Health and vulnerability,3,0.013215859030837,1.322
+Kosovo,Household behaviour and adoption,1,0.0044052863436123,0.441
+Kosovo,Housing and thermal comfort,3,0.013215859030837,1.322
+Kosovo,Welfare and care,10,0.0440528634361233,4.405
+Kuwait,Affordability and income constraints,3,0.2142857142857142,21.429
+Kuwait,Governance and planning,9,0.6428571428571429,64.286
+Kuwait,Welfare and care,2,0.1428571428571428,14.286
+Kyrgyzstan,Governance and planning,3,0.75,75.0
+Kyrgyzstan,Welfare and care,1,0.25,25.0
+Laos,Affordability and income constraints,1,0.02,2.0
+Laos,Energy transition and efficiency,1,0.02,2.0
+Laos,Governance and planning,41,0.82,82.0
+Laos,Housing and thermal comfort,1,0.02,2.0
+Laos,Welfare and care,6,0.12,12.0
+Latvia,Affordability and income constraints,3,0.0058027079303675,0.58
+Latvia,Energy transition and efficiency,1,0.0019342359767891,0.193
+Latvia,Governance and planning,447,0.8646034816247582,86.46
+Latvia,Health and vulnerability,18,0.034816247582205,3.482
+Latvia,Household behaviour and adoption,6,0.011605415860735,1.161
+Latvia,Housing and thermal comfort,9,0.0174081237911025,1.741
+Latvia,Welfare and care,33,0.0638297872340425,6.383
+Lebanon,Energy transition and efficiency,5,0.0255102040816326,2.551
+Lebanon,Governance and planning,153,0.7806122448979592,78.061
+Lebanon,Health and vulnerability,22,0.1122448979591836,11.224
+Lebanon,Household behaviour and adoption,1,0.0051020408163265,0.51
+Lebanon,Housing and thermal comfort,9,0.0459183673469387,4.592
+Lebanon,Welfare and care,6,0.0306122448979591,3.061
+Lesotho,Governance and planning,17,0.9444444444444444,94.444
+Lesotho,Welfare and care,1,0.0555555555555555,5.556
+Liberia,Affordability and income constraints,1,0.0059523809523809,0.595
+Liberia,Governance and planning,153,0.9107142857142856,91.071
+Liberia,Housing and thermal comfort,8,0.0476190476190476,4.762
+Liberia,Welfare and care,6,0.0357142857142857,3.571
+Lithuania,Governance and planning,106,0.954954954954955,95.495
+Lithuania,Household behaviour and adoption,2,0.018018018018018,1.802
+Lithuania,Welfare and care,3,0.027027027027027,2.703
+Luxembourg,Energy transition and efficiency,1,0.0064935064935064,0.649
+Luxembourg,Governance and planning,148,0.961038961038961,96.104
+Luxembourg,Health and vulnerability,3,0.0194805194805194,1.948
+Luxembourg,Housing and thermal comfort,1,0.0064935064935064,0.649
+Luxembourg,Welfare and care,1,0.0064935064935064,0.649
+Malawi,Governance and planning,186,0.8230088495575221,82.301
+Malawi,Health and vulnerability,20,0.0884955752212389,8.85
+Malawi,Housing and thermal comfort,4,0.0176991150442477,1.77
+Malawi,Welfare and care,16,0.0707964601769911,7.08
+Malaysia,Energy transition and efficiency,3,0.0174418604651162,1.744
+Malaysia,Governance and planning,86,0.5,50.0
+Malaysia,Health and vulnerability,66,0.3837209302325581,38.372
+Malaysia,Household behaviour and adoption,4,0.0232558139534883,2.326
+Malaysia,Housing and thermal comfort,1,0.005813953488372,0.581
+Malaysia,Welfare and care,12,0.0697674418604651,6.977
+Maldives,Affordability and income constraints,3,0.0106007067137809,1.06
+Maldives,Energy transition and efficiency,4,0.0141342756183745,1.413
+Maldives,Governance and planning,247,0.872791519434629,87.279
+Maldives,Health and vulnerability,16,0.0565371024734982,5.654
+Maldives,Household behaviour and adoption,2,0.0070671378091872,0.707
+Maldives,Housing and thermal comfort,1,0.0035335689045936,0.353
+Maldives,Welfare and care,10,0.0353356890459364,3.534
+Mali,Governance and planning,2,1.0,100.0
+Malta,Affordability and income constraints,3,0.0118110236220472,1.181
+Malta,Energy transition and efficiency,2,0.0078740157480314,0.787
+Malta,Governance and planning,223,0.8779527559055118,87.795
+Malta,Household behaviour and adoption,4,0.0157480314960629,1.575
+Malta,Housing and thermal comfort,7,0.0275590551181102,2.756
+Malta,Welfare and care,15,0.0590551181102362,5.906
+Marshall Islands,Energy transition and efficiency,4,0.2352941176470588,23.529
+Marshall Islands,Governance and planning,8,0.4705882352941176,47.059
+Marshall Islands,Housing and thermal comfort,3,0.1764705882352941,17.647
+Marshall Islands,Welfare and care,2,0.1176470588235294,11.765
+Mauritius,Affordability and income constraints,3,0.0091743119266055,0.917
+Mauritius,Energy transition and efficiency,7,0.0214067278287461,2.141
+Mauritius,Governance and planning,280,0.8562691131498471,85.627
+Mauritius,Health and vulnerability,8,0.0244648318042813,2.446
+Mauritius,Household behaviour and adoption,10,0.0305810397553516,3.058
+Mauritius,Housing and thermal comfort,1,0.0030581039755351,0.306
+Mauritius,Welfare and care,18,0.055045871559633,5.505
+Mexico,Affordability and income constraints,2,0.0058823529411764,0.588
+Mexico,Energy transition and efficiency,5,0.0147058823529411,1.471
+Mexico,Governance and planning,264,0.7764705882352941,77.647
+Mexico,Health and vulnerability,45,0.1323529411764706,13.235
+Mexico,Household behaviour and adoption,12,0.0352941176470588,3.529
+Mexico,Housing and thermal comfort,6,0.0176470588235294,1.765
+Mexico,Welfare and care,6,0.0176470588235294,1.765
+Micronesia,Affordability and income constraints,2,0.0266666666666666,2.667
+Micronesia,Governance and planning,60,0.8,80.0
+Micronesia,Welfare and care,13,0.1733333333333333,17.333
+Moldova,Governance and planning,81,0.8350515463917526,83.505
+Moldova,Health and vulnerability,2,0.0206185567010309,2.062
+Moldova,Household behaviour and adoption,2,0.0206185567010309,2.062
+Moldova,Housing and thermal comfort,8,0.0824742268041237,8.247
+Moldova,Welfare and care,4,0.0412371134020618,4.124
+Monaco,Governance and planning,1,0.3333333333333333,33.333
+Monaco,Welfare and care,2,0.6666666666666666,66.667
+Mongolia,Affordability and income constraints,3,0.0241935483870967,2.419
+Mongolia,Governance and planning,105,0.8467741935483871,84.677
+Mongolia,Health and vulnerability,5,0.0403225806451612,4.032
+Mongolia,Household behaviour and adoption,2,0.0161290322580645,1.613
+Mongolia,Housing and thermal comfort,1,0.0080645161290322,0.806
+Mongolia,Welfare and care,8,0.064516129032258,6.452
+Montenegro,Energy transition and efficiency,1,0.0087719298245614,0.877
+Montenegro,Governance and planning,99,0.868421052631579,86.842
+Montenegro,Household behaviour and adoption,4,0.0350877192982456,3.509
+Montenegro,Housing and thermal comfort,3,0.0263157894736842,2.632
+Montenegro,Welfare and care,7,0.0614035087719298,6.14
+Morocco,Governance and planning,52,0.9629629629629628,96.296
+Morocco,Housing and thermal comfort,1,0.0185185185185185,1.852
+Morocco,Welfare and care,1,0.0185185185185185,1.852
+Mozambique,Affordability and income constraints,1,0.0117647058823529,1.176
+Mozambique,Governance and planning,72,0.8470588235294118,84.706
+Mozambique,Health and vulnerability,2,0.0235294117647058,2.353
+Mozambique,Housing and thermal comfort,3,0.0352941176470588,3.529
+Mozambique,Welfare and care,7,0.0823529411764705,8.235
+Myanmar,Governance and planning,13,1.0,100.0
+Namibia,Affordability and income constraints,5,0.0261780104712041,2.618
+Namibia,Governance and planning,178,0.9319371727748692,93.194
+Namibia,Household behaviour and adoption,1,0.0052356020942408,0.524
+Namibia,Housing and thermal comfort,4,0.0209424083769633,2.094
+Namibia,Welfare and care,3,0.0157068062827225,1.571
+Nepal,Affordability and income constraints,3,0.0095238095238095,0.952
+Nepal,Energy transition and efficiency,1,0.0031746031746031,0.317
+Nepal,Governance and planning,259,0.8222222222222222,82.222
+Nepal,Health and vulnerability,29,0.092063492063492,9.206
+Nepal,Household behaviour and adoption,3,0.0095238095238095,0.952
+Nepal,Housing and thermal comfort,9,0.0285714285714285,2.857
+Nepal,Welfare and care,11,0.0349206349206349,3.492
+Netherlands,Affordability and income constraints,31,0.0119047619047619,1.19
+Netherlands,Energy transition and efficiency,40,0.0153609831029185,1.536
+Netherlands,Governance and planning,2202,0.8456221198156681,84.562
+Netherlands,Health and vulnerability,54,0.02073732718894,2.074
+Netherlands,Household behaviour and adoption,77,0.0295698924731182,2.957
+Netherlands,Housing and thermal comfort,60,0.0230414746543778,2.304
+Netherlands,Welfare and care,140,0.053763440860215,5.376
+New Zealand,Affordability and income constraints,80,0.014099400775467,1.41
+New Zealand,Energy transition and efficiency,124,0.0218540712019739,2.185
+New Zealand,Governance and planning,4692,0.8269298554811421,82.693
+New Zealand,Health and vulnerability,196,0.0345435318998942,3.454
+New Zealand,Household behaviour and adoption,78,0.0137469157560803,1.375
+New Zealand,Housing and thermal comfort,256,0.0451180824814945,4.512
+New Zealand,Welfare and care,248,0.0437081424039478,4.371
+Nicaragua,Governance and planning,3,0.6,60.0
+Nicaragua,Welfare and care,2,0.4,40.0
+Nigeria,Affordability and income constraints,4,0.0129870129870129,1.299
+Nigeria,Energy transition and efficiency,1,0.0032467532467532,0.325
+Nigeria,Governance and planning,237,0.7694805194805194,76.948
+Nigeria,Health and vulnerability,30,0.0974025974025974,9.74
+Nigeria,Household behaviour and adoption,10,0.0324675324675324,3.247
+Nigeria,Housing and thermal comfort,7,0.0227272727272727,2.273
+Nigeria,Welfare and care,19,0.0616883116883116,6.169
+North Korea,Governance and planning,1,1.0,100.0
+North Macedonia,Energy transition and efficiency,2,0.0131578947368421,1.316
+North Macedonia,Governance and planning,144,0.9473684210526316,94.737
+North Macedonia,Welfare and care,6,0.0394736842105263,3.947
+Norway,Affordability and income constraints,16,0.0091638029782359,0.916
+Norway,Energy transition and efficiency,31,0.0177548682703321,1.775
+Norway,Governance and planning,1439,0.8241695303550973,82.417
+Norway,Health and vulnerability,71,0.0406643757159221,4.066
+Norway,Household behaviour and adoption,35,0.0200458190148911,2.005
+Norway,Housing and thermal comfort,81,0.0463917525773195,4.639
+Norway,Welfare and care,73,0.0418098510882016,4.181
+Oman,Energy transition and efficiency,1,0.0172413793103448,1.724
+Oman,Governance and planning,28,0.4827586206896552,48.276
+Oman,Health and vulnerability,24,0.4137931034482758,41.379
+Oman,Welfare and care,5,0.0862068965517241,8.621
+Pakistan,Affordability and income constraints,35,0.0671785028790787,6.718
+Pakistan,Energy transition and efficiency,4,0.0076775431861804,0.768
+Pakistan,Governance and planning,422,0.8099808061420346,80.998
+Pakistan,Health and vulnerability,13,0.0249520153550863,2.495
+Pakistan,Household behaviour and adoption,5,0.0095969289827255,0.96
+Pakistan,Housing and thermal comfort,6,0.0115163147792706,1.152
+Pakistan,Welfare and care,36,0.0690978886756238,6.91
+Palau,Affordability and income constraints,1,0.0222222222222222,2.222
+Palau,Governance and planning,38,0.8444444444444444,84.444
+Palau,Housing and thermal comfort,4,0.0888888888888888,8.889
+Palau,Welfare and care,2,0.0444444444444444,4.444
+Palestine,Affordability and income constraints,1,0.2,20.0
+Palestine,Energy transition and efficiency,2,0.4,40.0
+Palestine,Governance and planning,2,0.4,40.0
+Panama,Governance and planning,4,1.0,100.0
+Papua New Guinea,Energy transition and efficiency,1,0.0036496350364963,0.365
+Papua New Guinea,Governance and planning,194,0.708029197080292,70.803
+Papua New Guinea,Health and vulnerability,17,0.0620437956204379,6.204
+Papua New Guinea,Household behaviour and adoption,12,0.0437956204379562,4.38
+Papua New Guinea,Housing and thermal comfort,8,0.0291970802919708,2.92
+Papua New Guinea,Welfare and care,42,0.1532846715328467,15.328
+Paraguay,Governance and planning,8,0.8,80.0
+Paraguay,Welfare and care,2,0.2,20.0
+Peru,Affordability and income constraints,17,0.0661478599221789,6.615
+Peru,Governance and planning,205,0.7976653696498055,79.767
+Peru,Health and vulnerability,5,0.0194552529182879,1.946
+Peru,Household behaviour and adoption,4,0.0155642023346303,1.556
+Peru,Housing and thermal comfort,8,0.0311284046692607,3.113
+Peru,Welfare and care,18,0.0700389105058365,7.004
+Philippines,Affordability and income constraints,8,0.0060195635816403,0.602
+Philippines,Energy transition and efficiency,25,0.018811136192626,1.881
+Philippines,Governance and planning,1089,0.8194130925507901,81.941
+Philippines,Health and vulnerability,71,0.0534236267870579,5.342
+Philippines,Household behaviour and adoption,25,0.018811136192626,1.881
+Philippines,Housing and thermal comfort,24,0.0180586907449209,1.806
+Philippines,Welfare and care,87,0.0654627539503386,6.546
+Poland,Affordability and income constraints,5,0.0068306010928961,0.683
+Poland,Energy transition and efficiency,59,0.0806010928961748,8.06
+Poland,Governance and planning,601,0.8210382513661202,82.104
+Poland,Health and vulnerability,29,0.0396174863387978,3.962
+Poland,Household behaviour and adoption,8,0.0109289617486338,1.093
+Poland,Housing and thermal comfort,5,0.0068306010928961,0.683
+Poland,Welfare and care,25,0.0341530054644808,3.415
+Portugal,Affordability and income constraints,2,0.0035087719298245,0.351
+Portugal,Energy transition and efficiency,12,0.0210526315789473,2.105
+Portugal,Governance and planning,463,0.8122807017543859,81.228
+Portugal,Health and vulnerability,33,0.0578947368421052,5.789
+Portugal,Household behaviour and adoption,12,0.0210526315789473,2.105
+Portugal,Housing and thermal comfort,11,0.019298245614035,1.93
+Portugal,Welfare and care,37,0.0649122807017543,6.491
+Qatar,Governance and planning,46,0.8846153846153846,88.462
+Qatar,Household behaviour and adoption,2,0.0384615384615384,3.846
+Qatar,Housing and thermal comfort,4,0.0769230769230769,7.692
+Romania,Affordability and income constraints,2,0.0087719298245614,0.877
+Romania,Energy transition and efficiency,3,0.0131578947368421,1.316
+Romania,Governance and planning,216,0.9473684210526316,94.737
+Romania,Household behaviour and adoption,3,0.0131578947368421,1.316
+Romania,Housing and thermal comfort,3,0.0131578947368421,1.316
+Romania,Welfare and care,1,0.0043859649122807,0.439
+Russia,Affordability and income constraints,2,0.0434782608695652,4.348
+Russia,Energy transition and efficiency,1,0.0217391304347826,2.174
+Russia,Governance and planning,41,0.8913043478260869,89.13
+Russia,Housing and thermal comfort,1,0.0217391304347826,2.174
+Russia,Welfare and care,1,0.0217391304347826,2.174
+Rwanda,Affordability and income constraints,1,0.0028248587570621,0.282
+Rwanda,Energy transition and efficiency,8,0.0225988700564971,2.26
+Rwanda,Governance and planning,298,0.8418079096045198,84.181
+Rwanda,Health and vulnerability,26,0.0734463276836158,7.345
+Rwanda,Household behaviour and adoption,2,0.0056497175141242,0.565
+Rwanda,Housing and thermal comfort,8,0.0225988700564971,2.26
+Rwanda,Welfare and care,11,0.0310734463276836,3.107
+Samoa,Energy transition and efficiency,1,0.0056497175141242,0.565
+Samoa,Governance and planning,159,0.8983050847457628,89.831
+Samoa,Health and vulnerability,6,0.0338983050847457,3.39
+Samoa,Household behaviour and adoption,3,0.0169491525423728,1.695
+Samoa,Housing and thermal comfort,5,0.0282485875706214,2.825
+Samoa,Welfare and care,3,0.0169491525423728,1.695
+San Marino,Governance and planning,8,0.8,80.0
+San Marino,Household behaviour and adoption,2,0.2,20.0
+Saudi Arabia,Governance and planning,30,0.7692307692307693,76.923
+Saudi Arabia,Health and vulnerability,4,0.1025641025641025,10.256
+Saudi Arabia,Household behaviour and adoption,2,0.0512820512820512,5.128
+Saudi Arabia,Welfare and care,3,0.0769230769230769,7.692
+Senegal,Governance and planning,35,0.945945945945946,94.595
+Senegal,Welfare and care,2,0.054054054054054,5.405
+Serbia,Energy transition and efficiency,1,0.0063291139240506,0.633
+Serbia,Governance and planning,144,0.9113924050632912,91.139
+Serbia,Household behaviour and adoption,2,0.0126582278481012,1.266
+Serbia,Housing and thermal comfort,6,0.0379746835443038,3.797
+Serbia,Welfare and care,5,0.0316455696202531,3.165
+Seychelles,Governance and planning,46,0.6666666666666666,66.667
+Seychelles,Health and vulnerability,18,0.2608695652173913,26.087
+Seychelles,Household behaviour and adoption,2,0.0289855072463768,2.899
+Seychelles,Welfare and care,3,0.0434782608695652,4.348
+Sierra Leone,Affordability and income constraints,3,0.0208333333333333,2.083
+Sierra Leone,Energy transition and efficiency,3,0.0208333333333333,2.083
+Sierra Leone,Governance and planning,130,0.9027777777777778,90.278
+Sierra Leone,Health and vulnerability,1,0.0069444444444444,0.694
+Sierra Leone,Household behaviour and adoption,1,0.0069444444444444,0.694
+Sierra Leone,Housing and thermal comfort,4,0.0277777777777777,2.778
+Sierra Leone,Welfare and care,2,0.0138888888888888,1.389
+Singapore,Affordability and income constraints,10,0.0057110222729868,0.571
+Singapore,Energy transition and efficiency,64,0.0365505425471159,3.655
+Singapore,Governance and planning,1498,0.8555111364934324,85.551
+Singapore,Health and vulnerability,16,0.0091376356367789,0.914
+Singapore,Household behaviour and adoption,26,0.0148486579097658,1.485
+Singapore,Housing and thermal comfort,51,0.029126213592233,2.913
+Singapore,Welfare and care,86,0.049114791547687,4.911
+Slovakia,Affordability and income constraints,3,0.0142180094786729,1.422
+Slovakia,Energy transition and efficiency,4,0.0189573459715639,1.896
+Slovakia,Governance and planning,170,0.8056872037914692,80.569
+Slovakia,Health and vulnerability,6,0.0284360189573459,2.844
+Slovakia,Household behaviour and adoption,2,0.0094786729857819,0.948
+Slovakia,Housing and thermal comfort,14,0.0663507109004739,6.635
+Slovakia,Welfare and care,12,0.0568720379146919,5.687
+Slovenia,Affordability and income constraints,1,0.0036496350364963,0.365
+Slovenia,Energy transition and efficiency,4,0.0145985401459854,1.46
+Slovenia,Governance and planning,244,0.8905109489051095,89.051
+Slovenia,Health and vulnerability,11,0.0401459854014598,4.015
+Slovenia,Household behaviour and adoption,2,0.0072992700729927,0.73
+Slovenia,Housing and thermal comfort,6,0.0218978102189781,2.19
+Slovenia,Welfare and care,6,0.0218978102189781,2.19
+Solomon Islands,Governance and planning,117,0.9,90.0
+Solomon Islands,Household behaviour and adoption,1,0.0076923076923076,0.769
+Solomon Islands,Housing and thermal comfort,7,0.0538461538461538,5.385
+Solomon Islands,Welfare and care,5,0.0384615384615384,3.846
+Somalia,Governance and planning,159,0.7607655502392344,76.077
+Somalia,Health and vulnerability,17,0.0813397129186602,8.134
+Somalia,Housing and thermal comfort,9,0.0430622009569378,4.306
+Somalia,Welfare and care,24,0.1148325358851674,11.483
+South Africa,Affordability and income constraints,53,0.0059597436185764,0.596
+South Africa,Energy transition and efficiency,73,0.0082087034746429,0.821
+South Africa,Governance and planning,7809,0.878106375801192,87.811
+South Africa,Health and vulnerability,297,0.0333970538625885,3.34
+South Africa,Household behaviour and adoption,71,0.0079838074890363,0.798
+South Africa,Housing and thermal comfort,217,0.0244012144383222,2.44
+South Africa,Welfare and care,373,0.0419431013156415,4.194
+South Korea,Affordability and income constraints,11,0.0097259062776304,0.973
+South Korea,Energy transition and efficiency,25,0.02210433244916,2.21
+South Korea,Governance and planning,927,0.8196286472148541,81.963
+South Korea,Health and vulnerability,33,0.0291777188328912,2.918
+South Korea,Household behaviour and adoption,10,0.008841732979664,0.884
+South Korea,Housing and thermal comfort,36,0.0318302387267904,3.183
+South Korea,Welfare and care,89,0.0786914235190097,7.869
+South Sudan,Governance and planning,34,0.8292682926829268,82.927
+South Sudan,Health and vulnerability,2,0.048780487804878,4.878
+South Sudan,Housing and thermal comfort,3,0.073170731707317,7.317
+South Sudan,Welfare and care,2,0.048780487804878,4.878
+Spain,Affordability and income constraints,26,0.0124580737901293,1.246
+Spain,Energy transition and efficiency,59,0.0282702443699089,2.827
+Spain,Governance and planning,1719,0.8236703402012459,82.367
+Spain,Health and vulnerability,68,0.0325826545280306,3.258
+Spain,Household behaviour and adoption,35,0.016770483948251,1.677
+Spain,Housing and thermal comfort,74,0.0354575946334451,3.546
+Spain,Welfare and care,106,0.0507906085289889,5.079
+Sri Lanka,Affordability and income constraints,20,0.0284495021337126,2.845
+Sri Lanka,Energy transition and efficiency,9,0.0128022759601706,1.28
+Sri Lanka,Governance and planning,572,0.813655761024182,81.366
+Sri Lanka,Health and vulnerability,47,0.0668563300142247,6.686
+Sri Lanka,Household behaviour and adoption,10,0.0142247510668563,1.422
+Sri Lanka,Housing and thermal comfort,3,0.0042674253200568,0.427
+Sri Lanka,Welfare and care,42,0.0597439544807965,5.974
+Sudan,Governance and planning,11,0.6470588235294118,64.706
+Sudan,Health and vulnerability,4,0.2352941176470588,23.529
+Sudan,Housing and thermal comfort,1,0.0588235294117647,5.882
+Sudan,Welfare and care,1,0.0588235294117647,5.882
+Suriname,Governance and planning,28,0.9333333333333332,93.333
+Suriname,Welfare and care,2,0.0666666666666666,6.667
+Sweden,Affordability and income constraints,43,0.016337386018237,1.634
+Sweden,Energy transition and efficiency,65,0.0246960486322188,2.47
+Sweden,Governance and planning,2230,0.8472644376899696,84.726
+Sweden,Health and vulnerability,74,0.0281155015197568,2.812
+Sweden,Household behaviour and adoption,56,0.0212765957446808,2.128
+Sweden,Housing and thermal comfort,73,0.0277355623100303,2.774
+Sweden,Welfare and care,91,0.0345744680851063,3.457
+Switzerland,Affordability and income constraints,17,0.0077519379844961,0.775
+Switzerland,Energy transition and efficiency,21,0.0095759233926128,0.958
+Switzerland,Governance and planning,1848,0.8426812585499316,84.268
+Switzerland,Health and vulnerability,101,0.0460556315549475,4.606
+Switzerland,Household behaviour and adoption,41,0.0186958504331965,1.87
+Switzerland,Housing and thermal comfort,47,0.0214318285453716,2.143
+Switzerland,Welfare and care,118,0.0538075695394436,5.381
+Taiwan,Energy transition and efficiency,3,0.0141509433962264,1.415
+Taiwan,Governance and planning,173,0.8160377358490566,81.604
+Taiwan,Health and vulnerability,8,0.0377358490566037,3.774
+Taiwan,Household behaviour and adoption,9,0.0424528301886792,4.245
+Taiwan,Welfare and care,19,0.0896226415094339,8.962
+Tajikistan,Governance and planning,39,0.8666666666666667,86.667
+Tajikistan,Health and vulnerability,4,0.0888888888888888,8.889
+Tajikistan,Housing and thermal comfort,2,0.0444444444444444,4.444
+Tanzania,Affordability and income constraints,14,0.0060396893874029,0.604
+Tanzania,Energy transition and efficiency,9,0.0038826574633304,0.388
+Tanzania,Governance and planning,2035,0.8779119930974978,87.791
+Tanzania,Health and vulnerability,56,0.0241587575496117,2.416
+Tanzania,Household behaviour and adoption,6,0.0025884383088869,0.259
+Tanzania,Housing and thermal comfort,105,0.045297670405522,4.53
+Tanzania,Welfare and care,93,0.040120793787748,4.012
+Thailand,Energy transition and efficiency,3,0.0115830115830115,1.158
+Thailand,Governance and planning,225,0.8687258687258688,86.873
+Thailand,Health and vulnerability,13,0.0501930501930501,5.019
+Thailand,Household behaviour and adoption,3,0.0115830115830115,1.158
+Thailand,Housing and thermal comfort,6,0.0231660231660231,2.317
+Thailand,Welfare and care,9,0.0347490347490347,3.475
+Timor Leste,Governance and planning,80,0.9302325581395348,93.023
+Timor Leste,Housing and thermal comfort,1,0.0116279069767441,1.163
+Timor Leste,Welfare and care,5,0.0581395348837209,5.814
+Togo,Governance and planning,19,0.8260869565217391,82.609
+Togo,Welfare and care,4,0.1739130434782608,17.391
+Tonga,Governance and planning,84,0.9333333333333332,93.333
+Tonga,Health and vulnerability,2,0.0222222222222222,2.222
+Tonga,Housing and thermal comfort,2,0.0222222222222222,2.222
+Tonga,Welfare and care,2,0.0222222222222222,2.222
+Trinidad and Tobago,Affordability and income constraints,3,0.0042492917847025,0.425
+Trinidad and Tobago,Energy transition and efficiency,4,0.0056657223796034,0.567
+Trinidad and Tobago,Governance and planning,605,0.8569405099150141,85.694
+Trinidad and Tobago,Health and vulnerability,5,0.0070821529745042,0.708
+Trinidad and Tobago,Household behaviour and adoption,7,0.0099150141643059,0.992
+Trinidad and Tobago,Housing and thermal comfort,22,0.0311614730878186,3.116
+Trinidad and Tobago,Welfare and care,60,0.0849858356940509,8.499
+Tunisia,Governance and planning,11,1.0,100.0
+Turkey,Affordability and income constraints,7,0.006398537477148,0.64
+Turkey,Energy transition and efficiency,17,0.0155393053016453,1.554
+Turkey,Governance and planning,975,0.8912248628884827,89.122
+Turkey,Health and vulnerability,27,0.0246800731261425,2.468
+Turkey,Household behaviour and adoption,15,0.0137111517367458,1.371
+Turkey,Housing and thermal comfort,12,0.0109689213893967,1.097
+Turkey,Welfare and care,41,0.0374771480804387,3.748
+UK,Affordability and income constraints,1983,0.0230059748245257,2.301
+UK,Energy transition and efficiency,1716,0.0199083473519345,1.991
+UK,Governance and planning,68133,0.7904518823597656,79.045
+UK,Health and vulnerability,2869,0.0332849933290794,3.328
+UK,Household behaviour and adoption,1615,0.0187365856488195,1.874
+UK,Housing and thermal comfort,3489,0.0404779859620627,4.048
+UK,Welfare and care,6390,0.0741342305238122,7.413
+USA,Affordability and income constraints,1643,0.0094825297519421,0.948
+USA,Energy transition and efficiency,2758,0.0159177218842704,1.592
+USA,Governance and planning,133803,0.7722403702976925,77.224
+USA,Health and vulnerability,7779,0.0448962866344233,4.49
+USA,Household behaviour and adoption,2851,0.0164544688513614,1.645
+USA,Housing and thermal comfort,11960,0.0690268142624635,6.903
+USA,Welfare and care,12472,0.0719818083178465,7.198
+Uganda,Affordability and income constraints,16,0.0065952184666117,0.66
+Uganda,Energy transition and efficiency,16,0.0065952184666117,0.66
+Uganda,Governance and planning,1941,0.8000824402308326,80.008
+Uganda,Health and vulnerability,183,0.0754328112118714,7.543
+Uganda,Household behaviour and adoption,23,0.0094806265457543,0.948
+Uganda,Housing and thermal comfort,71,0.0292662819455894,2.927
+Uganda,Welfare and care,176,0.0725474031327287,7.255
+Ukraine,Governance and planning,60,0.8695652173913043,86.957
+Ukraine,Health and vulnerability,2,0.0289855072463768,2.899
+Ukraine,Household behaviour and adoption,2,0.0289855072463768,2.899
+Ukraine,Housing and thermal comfort,1,0.0144927536231884,1.449
+Ukraine,Welfare and care,4,0.0579710144927536,5.797
+United Arab Emirates,Governance and planning,87,0.9666666666666668,96.667
+United Arab Emirates,Housing and thermal comfort,3,0.0333333333333333,3.333
+Uruguay,Governance and planning,52,0.896551724137931,89.655
+Uruguay,Health and vulnerability,2,0.0344827586206896,3.448
+Uruguay,Household behaviour and adoption,1,0.0172413793103448,1.724
+Uruguay,Housing and thermal comfort,2,0.0344827586206896,3.448
+Uruguay,Welfare and care,1,0.0172413793103448,1.724
+Uzbekistan,Governance and planning,16,0.9411764705882352,94.118
+Uzbekistan,Housing and thermal comfort,1,0.0588235294117647,5.882
+Vanuatu,Governance and planning,31,0.8857142857142857,88.571
+Vanuatu,Housing and thermal comfort,4,0.1142857142857142,11.429
+Venezuela,Affordability and income constraints,1,0.0070921985815602,0.709
+Venezuela,Energy transition and efficiency,4,0.0283687943262411,2.837
+Venezuela,Governance and planning,121,0.8581560283687943,85.816
+Venezuela,Household behaviour and adoption,2,0.0141843971631205,1.418
+Venezuela,Housing and thermal comfort,5,0.0354609929078014,3.546
+Venezuela,Welfare and care,8,0.0567375886524822,5.674
+Vietnam,Governance and planning,22,0.9565217391304348,95.652
+Vietnam,Welfare and care,1,0.0434782608695652,4.348
+Zambia,Energy transition and efficiency,1,0.006578947368421,0.658
+Zambia,Governance and planning,130,0.8552631578947368,85.526
+Zambia,Health and vulnerability,15,0.0986842105263157,9.868
+Zambia,Household behaviour and adoption,1,0.006578947368421,0.658
+Zambia,Housing and thermal comfort,3,0.0197368421052631,1.974
+Zambia,Welfare and care,2,0.0131578947368421,1.316
+Zimbabwe,Energy transition and efficiency,1,0.0074074074074074,0.741
+Zimbabwe,Governance and planning,129,0.9555555555555556,95.556
+Zimbabwe,Housing and thermal comfort,3,0.0222222222222222,2.222
+Zimbabwe,Welfare and care,2,0.0148148148148148,1.481

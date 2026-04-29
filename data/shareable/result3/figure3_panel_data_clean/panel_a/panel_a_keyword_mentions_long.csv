@@ -1,0 +1,121 @@
+period,keyword,category,mechanism_relevance,mention_count,rank_in_period
+2012–2016,health,health and vulnerability,high,5885,1.0
+2012–2016,economic,affordability and income constraints,medium,5038,2.0
+2012–2016,social,welfare and care,medium,3962,3.0
+2012–2016,climate,energy transition and efficiency,high,3683,4.0
+2012–2016,climate change,energy transition and efficiency,high,2861,5.0
+2012–2016,child,welfare and care,medium,2578,6.0
+2012–2016,air pollution,energy transition and efficiency,high,2512,7.0
+2012–2016,aid,affordability and income constraints,medium,2338,8.0
+2012–2016,care,welfare and care,high,2250,9.0
+2012–2016,sustainable,energy transition and efficiency,medium,2046,10.0
+2012–2016,community,household behaviour and adoption,medium,2027,11.0
+2012–2016,poverty,affordability and income constraints,high,1957,12.0
+2012–2016,economy,affordability and income constraints,medium,1800,13.0
+2012–2016,affordable housing,housing and thermal comfort,high,1664,14.0
+2012–2016,city,housing and thermal comfort,medium,1612,15.0
+2012–2016,abuse,health and vulnerability,medium,1597,16.0
+2012–2016,environmental,energy transition and efficiency,medium,1531,17.0
+2012–2016,security,health and vulnerability,medium,1452,18.0
+2012–2016,energy,energy transition and efficiency,high,1326,19.0
+2012–2016,financial,affordability and income constraints,high,1243,20.0
+2012–2016,accessibility,health and vulnerability,high,1098,21.0
+2012–2016,gender,welfare and care,medium,1018,22.0
+2012–2016,employment,affordability and income constraints,medium,984,23.0
+2012–2016,people,household behaviour and adoption,medium,952,24.0
+2012–2016,market,affordability and income constraints,medium,727,25.0
+2012–2016,carbon,energy transition and efficiency,high,643,26.0
+2012–2016,adult,health and vulnerability,high,614,27.0
+2012–2016,resilience,health and vulnerability,high,534,28.0
+2012–2016,cost,affordability and income constraints,high,439,29.0
+2012–2016,right,welfare and care,medium,187,30.0
+2012–2016,age,health and vulnerability,high,173,31.0
+2012–2016,household,household behaviour and adoption,high,167,32.0
+2012–2016,fuel,energy transition and efficiency,high,149,33.0
+2012–2016,electricity,energy transition and efficiency,high,87,34.0
+2012–2016,pandemic,health and vulnerability,medium,45,35.0
+2012–2016,fuel poverty,affordability and income constraints,high,39,36.0
+2012–2016,covid,health and vulnerability,medium,8,37.0
+2012–2016,energy poverty,affordability and income constraints,high,7,38.0
+2012–2016,retrofit,housing and thermal comfort,high,5,39.0
+2012–2016,woman,welfare and care,medium,4,40.0
+2017–2020,health,health and vulnerability,high,5178,1.0
+2017–2020,economic,affordability and income constraints,medium,4694,2.0
+2017–2020,climate,energy transition and efficiency,high,4402,3.0
+2017–2020,social,welfare and care,medium,3836,4.0
+2017–2020,air pollution,energy transition and efficiency,high,3259,5.0
+2017–2020,climate change,energy transition and efficiency,high,3105,6.0
+2017–2020,sustainable,energy transition and efficiency,medium,2907,7.0
+2017–2020,covid,health and vulnerability,medium,2497,8.0
+2017–2020,city,housing and thermal comfort,medium,2435,9.0
+2017–2020,affordable housing,housing and thermal comfort,high,2421,10.0
+2017–2020,economy,affordability and income constraints,medium,2313,11.0
+2017–2020,care,welfare and care,high,2238,12.0
+2017–2020,child,welfare and care,medium,2237,13.0
+2017–2020,community,household behaviour and adoption,medium,2182,14.0
+2017–2020,abuse,health and vulnerability,medium,1687,15.0
+2017–2020,pandemic,health and vulnerability,medium,1598,16.0
+2017–2020,environmental,energy transition and efficiency,medium,1576,17.0
+2017–2020,aid,affordability and income constraints,medium,1553,18.0
+2017–2020,security,health and vulnerability,medium,1415,19.0
+2017–2020,energy,energy transition and efficiency,high,1400,20.0
+2017–2020,accessibility,health and vulnerability,high,1343,21.0
+2017–2020,financial,affordability and income constraints,high,1280,22.0
+2017–2020,gender,welfare and care,medium,1188,23.0
+2017–2020,poverty,affordability and income constraints,high,1162,24.0
+2017–2020,people,household behaviour and adoption,medium,910,25.0
+2017–2020,employment,affordability and income constraints,medium,897,26.0
+2017–2020,resilience,health and vulnerability,high,848,27.0
+2017–2020,carbon,energy transition and efficiency,high,785,28.0
+2017–2020,adult,health and vulnerability,high,716,29.0
+2017–2020,market,affordability and income constraints,medium,707,30.0
+2017–2020,cost,affordability and income constraints,high,432,31.0
+2017–2020,age,health and vulnerability,high,239,32.0
+2017–2020,household,household behaviour and adoption,high,171,33.0
+2017–2020,fuel,energy transition and efficiency,high,169,34.0
+2017–2020,right,welfare and care,medium,139,35.0
+2017–2020,electricity,energy transition and efficiency,high,62,36.0
+2017–2020,fuel poverty,affordability and income constraints,high,45,37.0
+2017–2020,energy poverty,affordability and income constraints,high,34,38.0
+2017–2020,woman,welfare and care,medium,11,39.0
+2017–2020,retrofit,housing and thermal comfort,high,10,40.0
+2021–2024,climate,energy transition and efficiency,high,8367,1.0
+2021–2024,covid,health and vulnerability,medium,6383,2.0
+2021–2024,climate change,energy transition and efficiency,high,5739,3.0
+2021–2024,health,health and vulnerability,high,5678,4.0
+2021–2024,economic,affordability and income constraints,medium,4676,5.0
+2021–2024,air pollution,energy transition and efficiency,high,4536,6.0
+2021–2024,social,welfare and care,medium,4467,7.0
+2021–2024,pandemic,health and vulnerability,medium,4214,8.0
+2021–2024,city,housing and thermal comfort,medium,2953,9.0
+2021–2024,care,welfare and care,high,2772,10.0
+2021–2024,economy,affordability and income constraints,medium,2714,11.0
+2021–2024,child,welfare and care,medium,2675,12.0
+2021–2024,sustainable,energy transition and efficiency,medium,2600,13.0
+2021–2024,community,household behaviour and adoption,medium,2433,14.0
+2021–2024,affordable housing,housing and thermal comfort,high,2397,15.0
+2021–2024,resilience,health and vulnerability,high,2356,16.0
+2021–2024,abuse,health and vulnerability,medium,2038,17.0
+2021–2024,energy,energy transition and efficiency,high,1823,18.0
+2021–2024,cost,affordability and income constraints,high,1815,19.0
+2021–2024,carbon,energy transition and efficiency,high,1662,20.0
+2021–2024,environmental,energy transition and efficiency,medium,1648,21.0
+2021–2024,security,health and vulnerability,medium,1642,22.0
+2021–2024,accessibility,health and vulnerability,high,1543,23.0
+2021–2024,gender,welfare and care,medium,1361,24.0
+2021–2024,employment,affordability and income constraints,medium,1282,25.0
+2021–2024,financial,affordability and income constraints,high,1280,26.0
+2021–2024,poverty,affordability and income constraints,high,1168,27.0
+2021–2024,aid,affordability and income constraints,medium,1126,28.0
+2021–2024,people,household behaviour and adoption,medium,1064,29.0
+2021–2024,market,affordability and income constraints,medium,847,30.0
+2021–2024,adult,health and vulnerability,high,647,31.0
+2021–2024,age,health and vulnerability,high,232,32.0
+2021–2024,fuel,energy transition and efficiency,high,173,33.0
+2021–2024,right,welfare and care,medium,153,34.0
+2021–2024,household,household behaviour and adoption,high,151,35.0
+2021–2024,energy poverty,affordability and income constraints,high,101,36.0
+2021–2024,electricity,energy transition and efficiency,high,44,37.0
+2021–2024,fuel poverty,affordability and income constraints,high,18,38.0
+2021–2024,retrofit,housing and thermal comfort,high,14,39.0
+2021–2024,woman,welfare and care,medium,10,40.0

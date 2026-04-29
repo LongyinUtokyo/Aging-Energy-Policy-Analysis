@@ -1,0 +1,43 @@
+Country,category,term_frequency,TopicShare,TopicShare_pct,blind_spot_rank_desc
+Brazil,Governance and planning,466,0.8336314847942755,83.363,143
+Brazil,Welfare and care,33,0.0590339892665474,5.903,143
+Brazil,Energy transition and efficiency,16,0.0286225402504472,2.862,143
+Brazil,Housing and thermal comfort,15,0.0268336314847942,2.683,143
+Brazil,Affordability and income constraints,13,0.0232558139534883,2.326,143
+Brazil,Household behaviour and adoption,13,0.0232558139534883,2.326,143
+Brazil,Health and vulnerability,3,0.0053667262969588,0.537,143
+China,Governance and planning,724,0.8389339513325609,83.893,84
+China,Welfare and care,68,0.0787949015063731,7.879,84
+China,Household behaviour and adoption,29,0.033603707995365,3.36,84
+China,Housing and thermal comfort,22,0.0254924681344148,2.549,84
+China,Energy transition and efficiency,12,0.0139049826187717,1.39,84
+China,Health and vulnerability,6,0.0069524913093858,0.695,84
+China,Affordability and income constraints,2,0.0023174971031286,0.232,84
+Germany,Governance and planning,5256,0.7872977831036548,78.73,125
+Germany,Welfare and care,410,0.0614140203714799,6.141,125
+Germany,Energy transition and efficiency,237,0.0355002995805871,3.55,125
+Germany,Health and vulnerability,232,0.0347513481126423,3.475,125
+Germany,Housing and thermal comfort,184,0.0275614140203714,2.756,125
+Germany,Affordability and income constraints,180,0.0269622528460155,2.696,125
+Germany,Household behaviour and adoption,177,0.0265128819652486,2.651,125
+India,Governance and planning,1725,0.8505917159763313,85.059,113
+India,Health and vulnerability,74,0.0364891518737672,3.649,113
+India,Welfare and care,68,0.0335305719921104,3.353,113
+India,Housing and thermal comfort,50,0.02465483234714,2.465,113
+India,Affordability and income constraints,38,0.0187376725838264,1.874,113
+India,Household behaviour and adoption,37,0.0182445759368836,1.824,113
+India,Energy transition and efficiency,36,0.0177514792899408,1.775,113
+Japan,Governance and planning,1206,0.9234303215926492,92.343,117
+Japan,Welfare and care,29,0.0222052067381317,2.221,117
+Japan,Energy transition and efficiency,28,0.0214395099540581,2.144,117
+Japan,Health and vulnerability,13,0.0099540581929555,0.995,117
+Japan,Housing and thermal comfort,13,0.0099540581929555,0.995,117
+Japan,Household behaviour and adoption,10,0.007656967840735,0.766,117
+Japan,Affordability and income constraints,7,0.0053598774885145,0.536,117
+USA,Governance and planning,133803,0.7722403702976925,77.224,88
+USA,Welfare and care,12472,0.0719818083178465,7.198,88
+USA,Housing and thermal comfort,11960,0.0690268142624635,6.903,88
+USA,Health and vulnerability,7779,0.0448962866344233,4.49,88
+USA,Household behaviour and adoption,2851,0.0164544688513614,1.645,88
+USA,Energy transition and efficiency,2758,0.0159177218842704,1.592,88
+USA,Affordability and income constraints,1643,0.0094825297519421,0.948,88

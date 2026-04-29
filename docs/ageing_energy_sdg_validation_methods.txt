@@ -1,0 +1,30 @@
+Ageing-energy SDG validation methods
+
+Embedding model used: all-MiniLM-L6-v2 via sentence-transformers.
+Each SDG target text was encoded into a sentence embedding vector.
+The reference query vector was built by encoding the combined ageing corpus and energy corpus as a single text.
+Embedding relevance was computed as cosine similarity between each target embedding and the reference corpus embedding.
+Embedding similarities were min-max normalized to [0,1] to form relevance weights.
+
+TF-IDF comparison:
+Previous TF-IDF weights were loaded from ageing_energy_target_weights.xlsx and compared target-by-target.
+Pearson correlation between TF-IDF and embedding weights: 0.1102.
+Spearman correlation between TF-IDF and embedding weights: 0.3527.
+
+Robustness:
+Top-10 overlap ratio between methods: 0.50.
+Common top-10 targets: 7.1, 11.1, 11.2, 11.7, 11.b.
+
+Manual validation procedure:
+The 15 highest-weight and 15 lowest-weight embedding targets were selected for validation.
+Manual labels were assigned as 1 for ageing-energy relevant and 0 for not relevant, based on substantive relevance to ageing-sensitive energy access, efficiency, housing, transport, vulnerability, affordability, and resilience.
+Validation accuracy across the selected 30 targets: 0.6667.
+
+Embedding index recomputation:
+The document-level index was recomputed as the normalized weighted average of matched embedding-based target weights.
+Documents with no matched weighted targets were retained with missing normalized index values and excluded from aggregate mean/median summaries.
+
+Index-method comparison:
+Pearson correlation for country mean index between TF-IDF and embedding methods: 0.0149.
+Spearman correlation for country mean index between TF-IDF and embedding methods: 0.1264.
+Ranking stability assessment: partially stable.

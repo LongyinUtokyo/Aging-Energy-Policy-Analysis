@@ -1,0 +1,728 @@
+category,Source country,mention_count,rank_in_category
+affordability and income constraints,IGO,14931,1.0
+affordability and income constraints,EU,7132,2.0
+affordability and income constraints,USA,6212,3.0
+affordability and income constraints,UK,5015,4.0
+affordability and income constraints,Australia,1046,5.0
+affordability and income constraints,Ireland,891,6.0
+affordability and income constraints,Canada,849,7.0
+affordability and income constraints,Germany,626,8.0
+affordability and income constraints,South Africa,619,9.0
+affordability and income constraints,Belgium,392,10.0
+affordability and income constraints,New Zealand,384,11.0
+affordability and income constraints,Austria,364,12.0
+affordability and income constraints,France,327,13.0
+affordability and income constraints,Netherlands,217,14.0
+affordability and income constraints,Singapore,189,15.0
+affordability and income constraints,Finland,187,16.0
+affordability and income constraints,India,168,17.0
+affordability and income constraints,Spain,163,18.0
+affordability and income constraints,South Korea,162,19.0
+affordability and income constraints,Sweden,142,20.0
+affordability and income constraints,Japan,128,21.0
+affordability and income constraints,Tanzania,114,22.0
+affordability and income constraints,Uganda,109,23.0
+affordability and income constraints,Norway,108,24.0
+affordability and income constraints,Switzerland,108,25.0
+affordability and income constraints,Kenya,105,26.0
+affordability and income constraints,Italy,100,27.0
+affordability and income constraints,Ghana,90,28.0
+affordability and income constraints,Poland,84,29.0
+affordability and income constraints,Trinidad and Tobago,80,30.0
+affordability and income constraints,Latvia,77,31.0
+affordability and income constraints,Philippines,75,32.0
+affordability and income constraints,Indonesia,61,33.0
+affordability and income constraints,Turkey,61,34.0
+affordability and income constraints,Egypt,56,35.0
+affordability and income constraints,Nepal,54,36.0
+affordability and income constraints,China,49,37.0
+affordability and income constraints,Sri Lanka,47,38.0
+affordability and income constraints,Brazil,42,39.0
+affordability and income constraints,Nigeria,40,40.0
+affordability and income constraints,Portugal,39,41.0
+affordability and income constraints,Denmark,38,42.0
+affordability and income constraints,Estonia,36,43.0
+affordability and income constraints,Cyprus,34,44.0
+affordability and income constraints,Kosovo,34,45.0
+affordability and income constraints,Malta,32,46.0
+affordability and income constraints,Pakistan,32,47.0
+affordability and income constraints,Eswatini,31,48.0
+affordability and income constraints,Malawi,29,49.0
+affordability and income constraints,United Arab Emirates,28,50.0
+affordability and income constraints,Hungary,27,51.0
+affordability and income constraints,Peru,27,52.0
+affordability and income constraints,Czech Republic,26,53.0
+affordability and income constraints,Cambodia,25,54.0
+affordability and income constraints,Greece,24,55.0
+affordability and income constraints,Venezuela,24,56.0
+affordability and income constraints,Namibia,22,57.0
+affordability and income constraints,Slovenia,22,58.0
+affordability and income constraints,Jamaica,21,59.0
+affordability and income constraints,Taiwan,21,60.0
+affordability and income constraints,Luxembourg,20,61.0
+affordability and income constraints,Mauritius,20,62.0
+affordability and income constraints,Fiji,19,63.0
+affordability and income constraints,Botswana,18,64.0
+affordability and income constraints,Chile,18,65.0
+affordability and income constraints,Ethiopia,17,66.0
+affordability and income constraints,Barbados,15,67.0
+affordability and income constraints,Timor Leste,15,68.0
+affordability and income constraints,Kiribati,14,69.0
+affordability and income constraints,Liberia,14,70.0
+affordability and income constraints,Zambia,14,71.0
+affordability and income constraints,Zimbabwe,14,72.0
+affordability and income constraints,Lithuania,13,73.0
+affordability and income constraints,Mongolia,13,74.0
+affordability and income constraints,Rwanda,13,75.0
+affordability and income constraints,Serbia,13,76.0
+affordability and income constraints,Slovakia,13,77.0
+affordability and income constraints,Colombia,12,78.0
+affordability and income constraints,Montenegro,12,79.0
+affordability and income constraints,Thailand,12,80.0
+affordability and income constraints,Afghanistan,11,81.0
+affordability and income constraints,Guyana,11,82.0
+affordability and income constraints,Moldova,11,83.0
+affordability and income constraints,Israel,10,84.0
+affordability and income constraints,Mexico,9,85.0
+affordability and income constraints,Tonga,9,86.0
+affordability and income constraints,Bangladesh,8,87.0
+affordability and income constraints,Solomon Islands,8,88.0
+affordability and income constraints,Somalia,8,89.0
+affordability and income constraints,Bahamas,7,90.0
+affordability and income constraints,Cameroon,7,91.0
+affordability and income constraints,Papua New Guinea,7,92.0
+affordability and income constraints,Argentina,6,93.0
+affordability and income constraints,Azerbaijan,6,94.0
+affordability and income constraints,Bhutan,6,95.0
+affordability and income constraints,Iceland,6,96.0
+affordability and income constraints,Romania,6,97.0
+affordability and income constraints,Samoa,6,98.0
+affordability and income constraints,Belize,5,99.0
+affordability and income constraints,Georgia,5,100.0
+affordability and income constraints,Lebanon,5,101.0
+affordability and income constraints,Morocco,5,102.0
+affordability and income constraints,Mozambique,5,103.0
+affordability and income constraints,Angola,4,104.0
+affordability and income constraints,Gambia,4,105.0
+affordability and income constraints,Guatemala,4,106.0
+affordability and income constraints,Qatar,4,107.0
+affordability and income constraints,Russia,4,108.0
+affordability and income constraints,Sierra Leone,4,109.0
+affordability and income constraints,Albania,3,110.0
+affordability and income constraints,Lesotho,3,111.0
+affordability and income constraints,Maldives,3,112.0
+affordability and income constraints,Micronesia,3,113.0
+affordability and income constraints,North Macedonia,3,114.0
+affordability and income constraints,Palestine,3,115.0
+affordability and income constraints,Paraguay,3,116.0
+affordability and income constraints,Armenia,2,117.0
+affordability and income constraints,Bolivia,2,118.0
+affordability and income constraints,Bulgaria,2,119.0
+affordability and income constraints,Croatia,2,120.0
+affordability and income constraints,Jordan,2,121.0
+affordability and income constraints,Malaysia,2,122.0
+affordability and income constraints,Palau,2,123.0
+affordability and income constraints,Bosnia and Herzegovina,1,124.0
+affordability and income constraints,Brunei,1,125.0
+affordability and income constraints,Kyrgyzstan,1,126.0
+affordability and income constraints,Laos,1,127.0
+affordability and income constraints,Marshall Islands,1,128.0
+affordability and income constraints,Panama,1,129.0
+affordability and income constraints,San Marino,1,130.0
+affordability and income constraints,Saudi Arabia,1,131.0
+affordability and income constraints,Senegal,1,132.0
+affordability and income constraints,Seychelles,1,133.0
+affordability and income constraints,South Sudan,1,134.0
+affordability and income constraints,Suriname,1,135.0
+affordability and income constraints,Ukraine,1,136.0
+affordability and income constraints,Uruguay,1,137.0
+affordability and income constraints,Uzbekistan,1,138.0
+energy transition and efficiency,IGO,20633,1.0
+energy transition and efficiency,USA,11121,2.0
+energy transition and efficiency,UK,6280,3.0
+energy transition and efficiency,EU,6228,4.0
+energy transition and efficiency,Australia,1587,5.0
+energy transition and efficiency,Germany,1284,6.0
+energy transition and efficiency,Canada,1223,7.0
+energy transition and efficiency,France,1167,8.0
+energy transition and efficiency,Ireland,1049,9.0
+energy transition and efficiency,South Africa,542,10.0
+energy transition and efficiency,Belgium,473,11.0
+energy transition and efficiency,New Zealand,408,12.0
+energy transition and efficiency,India,397,13.0
+energy transition and efficiency,Sweden,345,14.0
+energy transition and efficiency,Tanzania,334,15.0
+energy transition and efficiency,Austria,325,16.0
+energy transition and efficiency,Uganda,318,17.0
+energy transition and efficiency,Poland,316,18.0
+energy transition and efficiency,Switzerland,294,19.0
+energy transition and efficiency,Spain,281,20.0
+energy transition and efficiency,Philippines,265,21.0
+energy transition and efficiency,Netherlands,261,22.0
+energy transition and efficiency,Italy,225,23.0
+energy transition and efficiency,Japan,197,24.0
+energy transition and efficiency,Singapore,195,25.0
+energy transition and efficiency,Denmark,165,26.0
+energy transition and efficiency,Finland,135,27.0
+energy transition and efficiency,Kenya,133,28.0
+energy transition and efficiency,Brazil,129,29.0
+energy transition and efficiency,Norway,127,30.0
+energy transition and efficiency,South Korea,122,31.0
+energy transition and efficiency,Ghana,99,32.0
+energy transition and efficiency,Turkey,93,33.0
+energy transition and efficiency,Portugal,88,34.0
+energy transition and efficiency,Pakistan,86,35.0
+energy transition and efficiency,China,81,36.0
+energy transition and efficiency,Fiji,81,37.0
+energy transition and efficiency,Mauritius,80,38.0
+energy transition and efficiency,Ethiopia,78,39.0
+energy transition and efficiency,Indonesia,78,40.0
+energy transition and efficiency,Sri Lanka,74,41.0
+energy transition and efficiency,Maldives,67,42.0
+energy transition and efficiency,Trinidad and Tobago,63,43.0
+energy transition and efficiency,Cambodia,59,44.0
+energy transition and efficiency,Rwanda,59,45.0
+energy transition and efficiency,Lebanon,56,46.0
+energy transition and efficiency,Thailand,49,47.0
+energy transition and efficiency,Nepal,47,48.0
+energy transition and efficiency,Hungary,46,49.0
+energy transition and efficiency,Romania,45,50.0
+energy transition and efficiency,Latvia,42,51.0
+energy transition and efficiency,Sierra Leone,38,52.0
+energy transition and efficiency,Egypt,37,53.0
+energy transition and efficiency,Greece,36,54.0
+energy transition and efficiency,Micronesia,34,55.0
+energy transition and efficiency,Mozambique,31,56.0
+energy transition and efficiency,Venezuela,30,57.0
+energy transition and efficiency,Malawi,29,58.0
+energy transition and efficiency,Bhutan,27,59.0
+energy transition and efficiency,Kiribati,27,60.0
+energy transition and efficiency,Kosovo,27,61.0
+energy transition and efficiency,Namibia,27,62.0
+energy transition and efficiency,Slovakia,27,63.0
+energy transition and efficiency,Belize,26,64.0
+energy transition and efficiency,Samoa,25,65.0
+energy transition and efficiency,Guyana,24,66.0
+energy transition and efficiency,Cyprus,23,67.0
+energy transition and efficiency,Eswatini,23,68.0
+energy transition and efficiency,Liberia,23,69.0
+energy transition and efficiency,Malta,22,70.0
+energy transition and efficiency,Solomon Islands,22,71.0
+energy transition and efficiency,Estonia,21,72.0
+energy transition and efficiency,Georgia,21,73.0
+energy transition and efficiency,Somalia,20,74.0
+energy transition and efficiency,Uruguay,20,75.0
+energy transition and efficiency,Argentina,19,76.0
+energy transition and efficiency,Vietnam,18,77.0
+energy transition and efficiency,Laos,17,78.0
+energy transition and efficiency,Mexico,17,79.0
+energy transition and efficiency,North Macedonia,17,80.0
+energy transition and efficiency,Barbados,16,81.0
+energy transition and efficiency,Costa Rica,16,82.0
+energy transition and efficiency,Czech Republic,16,83.0
+energy transition and efficiency,Slovenia,16,84.0
+energy transition and efficiency,Colombia,15,85.0
+energy transition and efficiency,Timor Leste,15,86.0
+energy transition and efficiency,Chile,14,87.0
+energy transition and efficiency,Marshall Islands,14,88.0
+energy transition and efficiency,Croatia,12,89.0
+energy transition and efficiency,Moldova,11,90.0
+energy transition and efficiency,Mongolia,11,91.0
+energy transition and efficiency,Peru,11,92.0
+energy transition and efficiency,Senegal,11,93.0
+energy transition and efficiency,Tajikistan,11,94.0
+energy transition and efficiency,Taiwan,10,95.0
+energy transition and efficiency,Tonga,10,96.0
+energy transition and efficiency,United Arab Emirates,10,97.0
+energy transition and efficiency,Uzbekistan,10,98.0
+energy transition and efficiency,Bahamas,9,99.0
+energy transition and efficiency,Morocco,9,100.0
+energy transition and efficiency,Serbia,9,101.0
+energy transition and efficiency,Benin,8,102.0
+energy transition and efficiency,Gambia,8,103.0
+energy transition and efficiency,South Sudan,8,104.0
+energy transition and efficiency,Suriname,8,105.0
+energy transition and efficiency,Nigeria,7,106.0
+energy transition and efficiency,Papua New Guinea,7,107.0
+energy transition and efficiency,Bahrain,6,108.0
+energy transition and efficiency,Cameroon,6,109.0
+energy transition and efficiency,Guinea,6,110.0
+energy transition and efficiency,Jamaica,6,111.0
+energy transition and efficiency,Malaysia,6,112.0
+energy transition and efficiency,Palau,6,113.0
+energy transition and efficiency,Qatar,6,114.0
+energy transition and efficiency,Zambia,6,115.0
+energy transition and efficiency,Afghanistan,5,116.0
+energy transition and efficiency,Botswana,5,117.0
+energy transition and efficiency,Bulgaria,5,118.0
+energy transition and efficiency,Cape Verde,5,119.0
+energy transition and efficiency,Israel,5,120.0
+energy transition and efficiency,Saudi Arabia,5,121.0
+energy transition and efficiency,Bangladesh,3,122.0
+energy transition and efficiency,Haiti,3,123.0
+energy transition and efficiency,Iran,3,124.0
+energy transition and efficiency,Iraq,3,125.0
+energy transition and efficiency,Luxembourg,3,126.0
+energy transition and efficiency,Montenegro,3,127.0
+energy transition and efficiency,Nicaragua,3,128.0
+energy transition and efficiency,Palestine,3,129.0
+energy transition and efficiency,Albania,2,130.0
+energy transition and efficiency,Angola,2,131.0
+energy transition and efficiency,Azerbaijan,2,132.0
+energy transition and efficiency,Belarus,2,133.0
+energy transition and efficiency,Brunei,2,134.0
+energy transition and efficiency,Cuba,2,135.0
+energy transition and efficiency,Iceland,2,136.0
+energy transition and efficiency,Lithuania,2,137.0
+energy transition and efficiency,Mali,2,138.0
+energy transition and efficiency,Paraguay,2,139.0
+energy transition and efficiency,Russia,2,140.0
+energy transition and efficiency,Ukraine,2,141.0
+energy transition and efficiency,Vanuatu,2,142.0
+energy transition and efficiency,Andorra,1,143.0
+energy transition and efficiency,Armenia,1,144.0
+energy transition and efficiency,Kuwait,1,145.0
+energy transition and efficiency,Kyrgyzstan,1,146.0
+energy transition and efficiency,Myanmar,1,147.0
+energy transition and efficiency,Oman,1,148.0
+energy transition and efficiency,Zimbabwe,1,149.0
+health and vulnerability,IGO,15805,1.0
+health and vulnerability,USA,11645,2.0
+health and vulnerability,UK,7914,3.0
+health and vulnerability,EU,4764,4.0
+health and vulnerability,Australia,2038,5.0
+health and vulnerability,Canada,1531,6.0
+health and vulnerability,Ireland,1040,7.0
+health and vulnerability,South Africa,667,8.0
+health and vulnerability,France,531,9.0
+health and vulnerability,Germany,488,10.0
+health and vulnerability,New Zealand,392,11.0
+health and vulnerability,Belgium,351,12.0
+health and vulnerability,Austria,237,13.0
+health and vulnerability,Uganda,236,14.0
+health and vulnerability,Switzerland,222,15.0
+health and vulnerability,Singapore,217,16.0
+health and vulnerability,Netherlands,203,17.0
+health and vulnerability,Spain,177,18.0
+health and vulnerability,India,164,19.0
+health and vulnerability,Sweden,163,20.0
+health and vulnerability,Italy,153,21.0
+health and vulnerability,Kenya,151,22.0
+health and vulnerability,Norway,127,23.0
+health and vulnerability,Philippines,124,24.0
+health and vulnerability,Finland,118,25.0
+health and vulnerability,Pakistan,99,26.0
+health and vulnerability,Tanzania,94,27.0
+health and vulnerability,South Korea,87,28.0
+health and vulnerability,Sri Lanka,77,29.0
+health and vulnerability,Malaysia,76,30.0
+health and vulnerability,Japan,64,31.0
+health and vulnerability,Turkey,61,32.0
+health and vulnerability,Ghana,59,33.0
+health and vulnerability,China,52,34.0
+health and vulnerability,Nepal,51,35.0
+health and vulnerability,Malawi,46,36.0
+health and vulnerability,Rwanda,45,37.0
+health and vulnerability,Indonesia,43,38.0
+health and vulnerability,Nigeria,43,39.0
+health and vulnerability,Poland,43,40.0
+health and vulnerability,Portugal,43,41.0
+health and vulnerability,Trinidad and Tobago,43,42.0
+health and vulnerability,Denmark,42,43.0
+health and vulnerability,Ethiopia,42,44.0
+health and vulnerability,Latvia,40,45.0
+health and vulnerability,Brazil,38,46.0
+health and vulnerability,Somalia,37,47.0
+health and vulnerability,Maldives,32,48.0
+health and vulnerability,Slovenia,32,49.0
+health and vulnerability,Czech Republic,31,50.0
+health and vulnerability,Peru,31,51.0
+health and vulnerability,Estonia,30,52.0
+health and vulnerability,Jamaica,30,53.0
+health and vulnerability,Fiji,28,54.0
+health and vulnerability,Samoa,26,55.0
+health and vulnerability,Lebanon,24,56.0
+health and vulnerability,Thailand,24,57.0
+health and vulnerability,Guyana,23,58.0
+health and vulnerability,Mauritius,22,59.0
+health and vulnerability,Oman,22,60.0
+health and vulnerability,Papua New Guinea,22,61.0
+health and vulnerability,Seychelles,22,62.0
+health and vulnerability,Slovakia,22,63.0
+health and vulnerability,Solomon Islands,19,64.0
+health and vulnerability,Egypt,17,65.0
+health and vulnerability,Zambia,17,66.0
+health and vulnerability,Belize,16,67.0
+health and vulnerability,Cameroon,16,68.0
+health and vulnerability,Eswatini,16,69.0
+health and vulnerability,Malta,16,70.0
+health and vulnerability,Mexico,15,71.0
+health and vulnerability,Cambodia,14,72.0
+health and vulnerability,Colombia,14,73.0
+health and vulnerability,Kosovo,14,74.0
+health and vulnerability,Moldova,13,75.0
+health and vulnerability,Taiwan,13,76.0
+health and vulnerability,Mongolia,12,77.0
+health and vulnerability,Tonga,12,78.0
+health and vulnerability,Argentina,11,79.0
+health and vulnerability,Cape Verde,11,80.0
+health and vulnerability,Romania,11,81.0
+health and vulnerability,Chile,10,82.0
+health and vulnerability,Namibia,10,83.0
+health and vulnerability,Afghanistan,9,84.0
+health and vulnerability,Bangladesh,9,85.0
+health and vulnerability,Cyprus,9,86.0
+health and vulnerability,Hungary,9,87.0
+health and vulnerability,Lithuania,9,88.0
+health and vulnerability,Tajikistan,9,89.0
+health and vulnerability,Zimbabwe,9,90.0
+health and vulnerability,Kiribati,8,91.0
+health and vulnerability,Luxembourg,8,92.0
+health and vulnerability,Marshall Islands,8,93.0
+health and vulnerability,Saudi Arabia,8,94.0
+health and vulnerability,Sierra Leone,8,95.0
+health and vulnerability,United Arab Emirates,8,96.0
+health and vulnerability,Barbados,7,97.0
+health and vulnerability,Bhutan,7,98.0
+health and vulnerability,Botswana,7,99.0
+health and vulnerability,Greece,7,100.0
+health and vulnerability,Iraq,7,101.0
+health and vulnerability,Montenegro,7,102.0
+health and vulnerability,Serbia,7,103.0
+health and vulnerability,Uruguay,7,104.0
+health and vulnerability,Vietnam,7,105.0
+health and vulnerability,Bahamas,6,106.0
+health and vulnerability,Vanuatu,6,107.0
+health and vulnerability,Venezuela,6,108.0
+health and vulnerability,Croatia,5,109.0
+health and vulnerability,Georgia,5,110.0
+health and vulnerability,Liberia,5,111.0
+health and vulnerability,Bosnia and Herzegovina,4,112.0
+health and vulnerability,Israel,4,113.0
+health and vulnerability,Micronesia,4,114.0
+health and vulnerability,North Macedonia,4,115.0
+health and vulnerability,Ukraine,4,116.0
+health and vulnerability,Albania,3,117.0
+health and vulnerability,Belarus,3,118.0
+health and vulnerability,Bulgaria,3,119.0
+health and vulnerability,Jordan,3,120.0
+health and vulnerability,Morocco,3,121.0
+health and vulnerability,Russia,3,122.0
+health and vulnerability,Senegal,3,123.0
+health and vulnerability,South Sudan,3,124.0
+health and vulnerability,El Salvador,2,125.0
+health and vulnerability,Gambia,2,126.0
+health and vulnerability,Guatemala,2,127.0
+health and vulnerability,Kyrgyzstan,2,128.0
+health and vulnerability,Mali,2,129.0
+health and vulnerability,Mozambique,2,130.0
+health and vulnerability,San Marino,2,131.0
+health and vulnerability,Timor Leste,2,132.0
+health and vulnerability,Togo,2,133.0
+health and vulnerability,Bahrain,1,134.0
+health and vulnerability,Brunei,1,135.0
+health and vulnerability,Burundi,1,136.0
+health and vulnerability,Ecuador,1,137.0
+health and vulnerability,Haiti,1,138.0
+health and vulnerability,Iceland,1,139.0
+health and vulnerability,Laos,1,140.0
+health and vulnerability,Nicaragua,1,141.0
+health and vulnerability,Sudan,1,142.0
+health and vulnerability,Suriname,1,143.0
+household behaviour and adoption,USA,4342,1.0
+household behaviour and adoption,UK,1842,2.0
+household behaviour and adoption,IGO,1631,3.0
+household behaviour and adoption,Australia,453,4.0
+household behaviour and adoption,EU,390,5.0
+household behaviour and adoption,Ireland,245,6.0
+household behaviour and adoption,Canada,224,7.0
+household behaviour and adoption,France,110,8.0
+household behaviour and adoption,New Zealand,81,9.0
+household behaviour and adoption,Germany,70,10.0
+household behaviour and adoption,South Africa,63,11.0
+household behaviour and adoption,Uganda,41,12.0
+household behaviour and adoption,Spain,37,13.0
+household behaviour and adoption,Norway,34,14.0
+household behaviour and adoption,Sweden,33,15.0
+household behaviour and adoption,Belgium,30,16.0
+household behaviour and adoption,Switzerland,29,17.0
+household behaviour and adoption,Netherlands,27,18.0
+household behaviour and adoption,Singapore,24,19.0
+household behaviour and adoption,India,23,20.0
+household behaviour and adoption,Thailand,22,21.0
+household behaviour and adoption,Tanzania,21,22.0
+household behaviour and adoption,Kenya,18,23.0
+household behaviour and adoption,South Korea,15,24.0
+household behaviour and adoption,Philippines,14,25.0
+household behaviour and adoption,China,13,26.0
+household behaviour and adoption,Nigeria,13,27.0
+household behaviour and adoption,Trinidad and Tobago,12,28.0
+household behaviour and adoption,Japan,10,29.0
+household behaviour and adoption,Somalia,9,30.0
+household behaviour and adoption,Denmark,8,31.0
+household behaviour and adoption,Indonesia,8,32.0
+household behaviour and adoption,Austria,7,33.0
+household behaviour and adoption,Cambodia,7,34.0
+household behaviour and adoption,Ethiopia,7,35.0
+household behaviour and adoption,Finland,7,36.0
+household behaviour and adoption,Italy,7,37.0
+household behaviour and adoption,Latvia,7,38.0
+household behaviour and adoption,Poland,7,39.0
+household behaviour and adoption,Nepal,6,40.0
+household behaviour and adoption,Rwanda,6,41.0
+household behaviour and adoption,Samoa,6,42.0
+household behaviour and adoption,Greece,4,43.0
+household behaviour and adoption,Laos,4,44.0
+household behaviour and adoption,Mexico,4,45.0
+household behaviour and adoption,Pakistan,4,46.0
+household behaviour and adoption,Papua New Guinea,4,47.0
+household behaviour and adoption,Serbia,4,48.0
+household behaviour and adoption,Slovenia,4,49.0
+household behaviour and adoption,Belize,3,50.0
+household behaviour and adoption,Bhutan,3,51.0
+household behaviour and adoption,Portugal,3,52.0
+household behaviour and adoption,Slovakia,3,53.0
+household behaviour and adoption,Tonga,3,54.0
+household behaviour and adoption,Uruguay,3,55.0
+household behaviour and adoption,Venezuela,3,56.0
+household behaviour and adoption,Argentina,2,57.0
+household behaviour and adoption,Bahamas,2,58.0
+household behaviour and adoption,Bangladesh,2,59.0
+household behaviour and adoption,Bolivia,2,60.0
+household behaviour and adoption,Brazil,2,61.0
+household behaviour and adoption,Chile,2,62.0
+household behaviour and adoption,Israel,2,63.0
+household behaviour and adoption,Jamaica,2,64.0
+household behaviour and adoption,Kosovo,2,65.0
+household behaviour and adoption,Romania,2,66.0
+household behaviour and adoption,Senegal,2,67.0
+household behaviour and adoption,Solomon Islands,2,68.0
+household behaviour and adoption,Sri Lanka,2,69.0
+household behaviour and adoption,Turkey,2,70.0
+household behaviour and adoption,Vanuatu,2,71.0
+household behaviour and adoption,Barbados,1,72.0
+household behaviour and adoption,Botswana,1,73.0
+household behaviour and adoption,Brunei,1,74.0
+household behaviour and adoption,Cuba,1,75.0
+household behaviour and adoption,Czech Republic,1,76.0
+household behaviour and adoption,Egypt,1,77.0
+household behaviour and adoption,Ghana,1,78.0
+household behaviour and adoption,Guyana,1,79.0
+household behaviour and adoption,Kiribati,1,80.0
+household behaviour and adoption,Liberia,1,81.0
+household behaviour and adoption,Luxembourg,1,82.0
+household behaviour and adoption,Malaysia,1,83.0
+household behaviour and adoption,Maldives,1,84.0
+household behaviour and adoption,Malta,1,85.0
+household behaviour and adoption,Mozambique,1,86.0
+household behaviour and adoption,Namibia,1,87.0
+household behaviour and adoption,Sudan,1,88.0
+household behaviour and adoption,Taiwan,1,89.0
+household behaviour and adoption,Zimbabwe,1,90.0
+housing and thermal comfort,USA,8474,1.0
+housing and thermal comfort,UK,1695,2.0
+housing and thermal comfort,IGO,976,3.0
+housing and thermal comfort,Australia,634,4.0
+housing and thermal comfort,Canada,493,5.0
+housing and thermal comfort,EU,384,6.0
+housing and thermal comfort,South Africa,156,7.0
+housing and thermal comfort,Ireland,138,8.0
+housing and thermal comfort,New Zealand,108,9.0
+housing and thermal comfort,Germany,46,10.0
+housing and thermal comfort,Spain,31,11.0
+housing and thermal comfort,Sweden,25,12.0
+housing and thermal comfort,France,23,13.0
+housing and thermal comfort,India,22,14.0
+housing and thermal comfort,Belgium,20,15.0
+housing and thermal comfort,Netherlands,19,16.0
+housing and thermal comfort,South Korea,19,17.0
+housing and thermal comfort,Kenya,18,18.0
+housing and thermal comfort,Tanzania,18,19.0
+housing and thermal comfort,Philippines,17,20.0
+housing and thermal comfort,Singapore,14,21.0
+housing and thermal comfort,Japan,13,22.0
+housing and thermal comfort,Poland,13,23.0
+housing and thermal comfort,Austria,12,24.0
+housing and thermal comfort,Uganda,10,25.0
+housing and thermal comfort,Switzerland,9,26.0
+housing and thermal comfort,Czech Republic,8,27.0
+housing and thermal comfort,Denmark,8,28.0
+housing and thermal comfort,Brazil,7,29.0
+housing and thermal comfort,Lebanon,6,30.0
+housing and thermal comfort,Malta,6,31.0
+housing and thermal comfort,Norway,6,32.0
+housing and thermal comfort,Turkey,6,33.0
+housing and thermal comfort,China,5,34.0
+housing and thermal comfort,Greece,5,35.0
+housing and thermal comfort,Maldives,5,36.0
+housing and thermal comfort,Rwanda,5,37.0
+housing and thermal comfort,Slovenia,5,38.0
+housing and thermal comfort,Italy,4,39.0
+housing and thermal comfort,Portugal,4,40.0
+housing and thermal comfort,Trinidad and Tobago,4,41.0
+housing and thermal comfort,Colombia,3,42.0
+housing and thermal comfort,Fiji,3,43.0
+housing and thermal comfort,Finland,3,44.0
+housing and thermal comfort,Hungary,3,45.0
+housing and thermal comfort,Namibia,3,46.0
+housing and thermal comfort,Slovakia,3,47.0
+housing and thermal comfort,Bahamas,2,48.0
+housing and thermal comfort,Ghana,2,49.0
+housing and thermal comfort,Latvia,2,50.0
+housing and thermal comfort,Mongolia,2,51.0
+housing and thermal comfort,Argentina,1,52.0
+housing and thermal comfort,Belize,1,53.0
+housing and thermal comfort,Benin,1,54.0
+housing and thermal comfort,Bhutan,1,55.0
+housing and thermal comfort,Cameroon,1,56.0
+housing and thermal comfort,Ethiopia,1,57.0
+housing and thermal comfort,Jamaica,1,58.0
+housing and thermal comfort,Lithuania,1,59.0
+housing and thermal comfort,Malawi,1,60.0
+housing and thermal comfort,Mexico,1,61.0
+housing and thermal comfort,Montenegro,1,62.0
+housing and thermal comfort,Pakistan,1,63.0
+housing and thermal comfort,Papua New Guinea,1,64.0
+housing and thermal comfort,Thailand,1,65.0
+welfare and care,IGO,9366,1.0
+welfare and care,USA,6507,2.0
+welfare and care,UK,4400,3.0
+welfare and care,EU,4385,4.0
+welfare and care,Ireland,724,5.0
+welfare and care,Australia,706,6.0
+welfare and care,Canada,701,7.0
+welfare and care,Germany,439,8.0
+welfare and care,Belgium,374,9.0
+welfare and care,France,358,10.0
+welfare and care,South Africa,252,11.0
+welfare and care,Uganda,211,12.0
+welfare and care,New Zealand,151,13.0
+welfare and care,Austria,131,14.0
+welfare and care,Spain,129,15.0
+welfare and care,Tanzania,122,16.0
+welfare and care,Switzerland,117,17.0
+welfare and care,Sweden,114,18.0
+welfare and care,India,113,19.0
+welfare and care,Netherlands,96,20.0
+welfare and care,Norway,84,21.0
+welfare and care,Kenya,80,22.0
+welfare and care,Finland,78,23.0
+welfare and care,South Korea,74,24.0
+welfare and care,Philippines,70,25.0
+welfare and care,Japan,53,26.0
+welfare and care,Singapore,47,27.0
+welfare and care,Trinidad and Tobago,46,28.0
+welfare and care,Ghana,44,29.0
+welfare and care,Indonesia,44,30.0
+welfare and care,Portugal,44,31.0
+welfare and care,Papua New Guinea,41,32.0
+welfare and care,China,39,33.0
+welfare and care,Italy,39,34.0
+welfare and care,Czech Republic,38,35.0
+welfare and care,Peru,35,36.0
+welfare and care,Egypt,33,37.0
+welfare and care,Brazil,32,38.0
+welfare and care,Turkey,31,39.0
+welfare and care,Latvia,29,40.0
+welfare and care,Pakistan,28,41.0
+welfare and care,Sri Lanka,27,42.0
+welfare and care,Kosovo,25,43.0
+welfare and care,Poland,24,44.0
+welfare and care,Ethiopia,22,45.0
+welfare and care,Mexico,22,46.0
+welfare and care,Nigeria,19,47.0
+welfare and care,Rwanda,19,48.0
+welfare and care,Estonia,18,49.0
+welfare and care,Malawi,18,50.0
+welfare and care,Taiwan,18,51.0
+welfare and care,Somalia,17,52.0
+welfare and care,Mauritius,15,53.0
+welfare and care,Jamaica,14,54.0
+welfare and care,Malta,14,55.0
+welfare and care,Slovenia,14,56.0
+welfare and care,Denmark,13,57.0
+welfare and care,Micronesia,12,58.0
+welfare and care,Slovakia,12,59.0
+welfare and care,Chile,11,60.0
+welfare and care,Samoa,11,61.0
+welfare and care,Zambia,11,62.0
+welfare and care,Argentina,10,63.0
+welfare and care,Belize,10,64.0
+welfare and care,Hungary,10,65.0
+welfare and care,Nepal,10,66.0
+welfare and care,Cambodia,9,67.0
+welfare and care,Greece,9,68.0
+welfare and care,Fiji,8,69.0
+welfare and care,Liberia,8,70.0
+welfare and care,Maldives,8,71.0
+welfare and care,Montenegro,8,72.0
+welfare and care,Serbia,8,73.0
+welfare and care,Bangladesh,7,74.0
+welfare and care,Georgia,7,75.0
+welfare and care,Guyana,7,76.0
+welfare and care,Laos,7,77.0
+welfare and care,Mozambique,7,78.0
+welfare and care,Namibia,7,79.0
+welfare and care,Botswana,6,80.0
+welfare and care,Bulgaria,6,81.0
+welfare and care,Cyprus,6,82.0
+welfare and care,Lebanon,6,83.0
+welfare and care,Mongolia,6,84.0
+welfare and care,North Macedonia,6,85.0
+welfare and care,Solomon Islands,6,86.0
+welfare and care,Croatia,5,87.0
+welfare and care,Eswatini,5,88.0
+welfare and care,Thailand,5,89.0
+welfare and care,Timor Leste,5,90.0
+welfare and care,Togo,5,91.0
+welfare and care,Venezuela,5,92.0
+welfare and care,Bahamas,4,93.0
+welfare and care,Cameroon,4,94.0
+welfare and care,Colombia,4,95.0
+welfare and care,Iraq,4,96.0
+welfare and care,Lithuania,4,97.0
+welfare and care,Qatar,4,98.0
+welfare and care,Sierra Leone,4,99.0
+welfare and care,South Sudan,4,100.0
+welfare and care,Suriname,4,101.0
+welfare and care,Ukraine,4,102.0
+welfare and care,Afghanistan,3,103.0
+welfare and care,Cape Verde,3,104.0
+welfare and care,Guatemala,3,105.0
+welfare and care,Iceland,3,106.0
+welfare and care,Malaysia,3,107.0
+welfare and care,Morocco,3,108.0
+welfare and care,Myanmar,3,109.0
+welfare and care,Saudi Arabia,3,110.0
+welfare and care,Senegal,3,111.0
+welfare and care,Vanuatu,3,112.0
+welfare and care,Albania,2,113.0
+welfare and care,Bhutan,2,114.0
+welfare and care,Bolivia,2,115.0
+welfare and care,Bosnia and Herzegovina,2,116.0
+welfare and care,Brunei,2,117.0
+welfare and care,Guinea,2,118.0
+welfare and care,Haiti,2,119.0
+welfare and care,Kiribati,2,120.0
+welfare and care,Moldova,2,121.0
+welfare and care,Nicaragua,2,122.0
+welfare and care,Palau,2,123.0
+welfare and care,Paraguay,2,124.0
+welfare and care,Seychelles,2,125.0
+welfare and care,Belarus,1,126.0
+welfare and care,Cuba,1,127.0
+welfare and care,Gambia,1,128.0
+welfare and care,Israel,1,129.0
+welfare and care,Ivory Coast,1,130.0
+welfare and care,Kyrgyzstan,1,131.0
+welfare and care,Lesotho,1,132.0
+welfare and care,Luxembourg,1,133.0
+welfare and care,Marshall Islands,1,134.0
+welfare and care,Monaco,1,135.0
+welfare and care,Oman,1,136.0
+welfare and care,Romania,1,137.0
+welfare and care,Sudan,1,138.0
+welfare and care,Tonga,1,139.0
+welfare and care,Uruguay,1,140.0
+welfare and care,Vietnam,1,141.0
+welfare and care,Zimbabwe,1,142.0

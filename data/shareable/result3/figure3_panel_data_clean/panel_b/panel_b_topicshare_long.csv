@@ -1,0 +1,67 @@
+time_window,category,count,share
+1972_1976,affordability and income constraints,158,0.1943419434194342
+1972_1976,energy transition and efficiency,18,0.022140221402214
+1972_1976,health and vulnerability,257,0.3161131611316113
+1972_1976,household behaviour and adoption,37,0.045510455104551
+1972_1976,housing and thermal comfort,5,0.006150061500615
+1972_1976,welfare and care,338,0.4157441574415744
+1977_1981,affordability and income constraints,252,0.23841059602649
+1977_1981,energy transition and efficiency,74,0.0700094607379375
+1977_1981,health and vulnerability,167,0.1579943235572374
+1977_1981,household behaviour and adoption,75,0.0709555345316934
+1977_1981,housing and thermal comfort,8,0.0075685903500473
+1977_1981,welfare and care,481,0.4550614947965941
+1982_1986,affordability and income constraints,247,0.2370441458733205
+1982_1986,energy transition and efficiency,68,0.0652591170825335
+1982_1986,health and vulnerability,331,0.3176583493282149
+1982_1986,household behaviour and adoption,72,0.0690978886756238
+1982_1986,housing and thermal comfort,18,0.0172744721689059
+1982_1986,welfare and care,306,0.2936660268714011
+1987_1991,affordability and income constraints,293,0.2761545711592837
+1987_1991,energy transition and efficiency,147,0.1385485391140433
+1987_1991,health and vulnerability,272,0.2563619227144204
+1987_1991,household behaviour and adoption,52,0.0490103675777568
+1987_1991,housing and thermal comfort,21,0.0197926484448633
+1987_1991,welfare and care,276,0.2601319509896324
+1992_1996,affordability and income constraints,772,0.2627637848876787
+1992_1996,energy transition and efficiency,240,0.0816882232811436
+1992_1996,health and vulnerability,438,0.1490810074880871
+1992_1996,household behaviour and adoption,215,0.0731790333560245
+1992_1996,housing and thermal comfort,50,0.0170183798502382
+1992_1996,welfare and care,1223,0.4162695711368278
+1997_2001,affordability and income constraints,2469,0.3116243847027641
+1997_2001,energy transition and efficiency,960,0.121166224914805
+1997_2001,health and vulnerability,1376,0.1736715890445538
+1997_2001,household behaviour and adoption,466,0.0588161050107282
+1997_2001,housing and thermal comfort,181,0.0228448819891455
+1997_2001,welfare and care,2471,0.3118768143380033
+2002_2006,affordability and income constraints,5223,0.3059574717356921
+2002_2006,energy transition and efficiency,2146,0.1257102688770429
+2002_2006,health and vulnerability,3463,0.2028586491711089
+2002_2006,household behaviour and adoption,1035,0.0606291371331497
+2002_2006,housing and thermal comfort,742,0.0434655263312049
+2002_2006,welfare and care,4462,0.2613789467518013
+2007_2011,affordability and income constraints,8977,0.2826511335012594
+2007_2011,energy transition and efficiency,5182,0.16316120906801
+2007_2011,health and vulnerability,5873,0.1849181360201511
+2007_2011,household behaviour and adoption,2267,0.0713790931989924
+2007_2011,housing and thermal comfort,1611,0.0507241813602015
+2007_2011,welfare and care,7850,0.2471662468513853
+2012_2016,affordability and income constraints,15373,0.2516574721299131
+2012_2016,energy transition and efficiency,11639,0.1905315369882299
+2012_2016,health and vulnerability,13036,0.2134005598572527
+2012_2016,household behaviour and adoption,3720,0.0608967538101396
+2012_2016,housing and thermal comfort,3793,0.062091770753188
+2012_2016,welfare and care,13526,0.2214219064612765
+2017_2020,affordability and income constraints,13714,0.204016661707825
+2017_2020,energy transition and efficiency,14139,0.2103391847664385
+2017_2020,health and vulnerability,16941,0.2520232073787563
+2017_2020,household behaviour and adoption,4005,0.0595804819994049
+2017_2020,housing and thermal comfort,5344,0.0795001487652484
+2017_2020,welfare and care,13077,0.1945403153823267
+2021_2024,affordability and income constraints,15547,0.1789562134536581
+2021_2024,energy transition and efficiency,20281,0.2334476725447764
+2021_2024,health and vulnerability,25945,0.2986440443851006
+2021_2024,household behaviour and adoption,4498,0.0517749435977715
+2021_2024,housing and thermal comfort,5958,0.0685805055481375
+2021_2024,welfare and care,14647,0.1685966204705557

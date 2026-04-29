@@ -1,0 +1,5 @@
+phase,start_year,end_year,total_documents,average_annual_count,annual_growth_rate_cagr,participating_countries,peak_year,peak_year_count,count_increase_from_previous_phase,country_increase_from_previous_phase,phase4_to_phase3_growth_ratio
+Phase 1,1869.0,1947.0,252.0,3.189873417721519,0.01418443068181752,2.0,1913.0,10.0,,,
+Phase 2,1948.0,1971.0,2005.0,83.54166666666667,0.02363999546669282,7.0,1949.0,203.0,1753.0,5.0,
+Phase 3,1972.0,1993.0,4773.0,216.9545454545455,0.02621397323310037,12.0,1992.0,354.0,2768.0,5.0,
+Phase 4,1994.0,2024.0,153454.0,4950.129032258064,0.1116138546926788,166.0,2021.0,11373.0,148681.0,154.0,4.257799979430208

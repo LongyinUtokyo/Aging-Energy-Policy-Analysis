@@ -1,0 +1,49 @@
+phase,keyword,category,present_in_taxonomy,present_in_phase_network,frequency,eigenvector_centrality,centrality_rank
+Phase 1,household,household behaviour and adoption,True,False,0,,
+Phase 1,technology adoption,,False,False,0,,
+Phase 1,thermal comfort,housing and thermal comfort,True,False,0,,
+Phase 1,energy poverty,affordability and income constraints,True,False,0,,
+Phase 1,fuel poverty,affordability and income constraints,True,False,0,,
+Phase 1,retrofit,housing and thermal comfort,True,False,0,,
+Phase 1,accessibility,health and vulnerability,True,False,0,,
+Phase 1,affordable housing,housing and thermal comfort,True,False,0,,
+Phase 1,climate change,energy transition and efficiency,True,False,0,,
+Phase 1,health,health and vulnerability,True,True,2,7.446950672677781e-64,10.0
+Phase 1,social,welfare and care,True,True,2,3.366220864241298e-07,6.0
+Phase 1,care,welfare and care,True,False,0,,
+Phase 2,household,household behaviour and adoption,True,False,0,,
+Phase 2,technology adoption,,False,False,0,,
+Phase 2,thermal comfort,housing and thermal comfort,True,False,0,,
+Phase 2,energy poverty,affordability and income constraints,True,False,0,,
+Phase 2,fuel poverty,affordability and income constraints,True,False,0,,
+Phase 2,retrofit,housing and thermal comfort,True,False,0,,
+Phase 2,accessibility,health and vulnerability,True,True,3,0.0031864520688515,22.0
+Phase 2,affordable housing,housing and thermal comfort,True,True,4,0.0208251469028272,14.0
+Phase 2,climate change,energy transition and efficiency,True,False,0,,
+Phase 2,health,health and vulnerability,True,True,57,0.0691594879754696,5.0
+Phase 2,social,welfare and care,True,True,400,0.6403893199458629,2.0
+Phase 2,care,welfare and care,True,True,3,0.0020946797533823,23.0
+Phase 3,household,household behaviour and adoption,True,True,7,0.0143596754127036,28.0
+Phase 3,technology adoption,,False,False,0,,
+Phase 3,thermal comfort,housing and thermal comfort,True,True,1,0.0004029055693878,35.0
+Phase 3,energy poverty,affordability and income constraints,True,False,0,,
+Phase 3,fuel poverty,affordability and income constraints,True,False,0,,
+Phase 3,retrofit,housing and thermal comfort,True,False,0,,
+Phase 3,accessibility,health and vulnerability,True,True,30,0.0188745127961626,26.0
+Phase 3,affordable housing,housing and thermal comfort,True,True,27,0.0340535908502506,21.0
+Phase 3,climate change,energy transition and efficiency,True,True,28,0.0292609645881946,24.0
+Phase 3,health,health and vulnerability,True,True,170,0.2209867213394818,6.0
+Phase 3,social,welfare and care,True,True,430,0.4964827606553907,2.0
+Phase 3,care,welfare and care,True,True,63,0.1499580433853336,8.0
+Phase 4,household,household behaviour and adoption,True,True,424,0.0072188704241332,34.0
+Phase 4,technology adoption,,False,False,0,,
+Phase 4,thermal comfort,housing and thermal comfort,True,False,0,,
+Phase 4,energy poverty,affordability and income constraints,True,True,85,0.0042122554358044,36.0
+Phase 4,fuel poverty,affordability and income constraints,True,True,71,0.0023338809114473,38.0
+Phase 4,retrofit,housing and thermal comfort,True,True,20,0.000563895275483,39.0
+Phase 4,accessibility,health and vulnerability,True,True,4369,0.0509624493669552,25.0
+Phase 4,affordable housing,housing and thermal comfort,True,True,6874,0.0930394688022135,17.0
+Phase 4,climate change,energy transition and efficiency,True,True,9231,0.5235098605058477,2.0
+Phase 4,health,health and vulnerability,True,True,12610,0.1658380328400154,7.0
+Phase 4,social,welfare and care,True,True,10548,0.2135036714510798,5.0
+Phase 4,care,welfare and care,True,True,6663,0.095794584167065,16.0

@@ -1,0 +1,10 @@
+fig2_2_a_total_diffusion.csv | rows=901 | countries=167 | sdgs=17 | years=53
+fig2_2_a1_developed_diffusion.csv | rows=901 | countries=39 | sdgs=17 | years=53
+fig2_2_a2_developing_diffusion.csv | rows=901 | countries=126 | sdgs=17 | years=53
+fig2_2_a3_other_diffusion.csv | rows=901 | countries=2 | sdgs=17 | years=53
+fig2_2_b_doc_concentration.csv | rows=901 | countries=167 | sdgs=17 | years=53
+fig2_2_c_citation_concentration.csv | rows=901 | countries=167 | sdgs=17 | years=53
+fig2_2_d1_ageing_energy_index.csv | rows=35 | countries=141 | sdgs=0 | years=35
+fig2_2_d2_inequality_metrics.csv | rows=35 | countries=141 | sdgs=0 | years=35
+fig2_2_e1_country_classification.csv | rows=161 | countries=161 | sdgs=0
+fig2_2_e2_scatter_data.csv | rows=141 | countries=141 | sdgs=0

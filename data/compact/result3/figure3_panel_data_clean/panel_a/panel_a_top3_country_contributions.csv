@@ -1,0 +1,55 @@
+period,keyword,category,mechanism_relevance,Source country,mention_count,country_rank
+2012–2016,child,welfare and care,medium,IGO,809,1
+2012–2016,child,welfare and care,medium,USA,648,2
+2012–2016,child,welfare and care,medium,UK,444,3
+2012–2016,climate,energy transition and efficiency,high,IGO,1617,1
+2012–2016,climate,energy transition and efficiency,high,USA,466,2
+2012–2016,climate,energy transition and efficiency,high,UK,381,3
+2012–2016,climate change,energy transition and efficiency,high,IGO,1202,1
+2012–2016,climate change,energy transition and efficiency,high,USA,360,2
+2012–2016,climate change,energy transition and efficiency,high,UK,309,3
+2012–2016,economic,affordability and income constraints,medium,IGO,2603,1
+2012–2016,economic,affordability and income constraints,medium,EU,535,2
+2012–2016,economic,affordability and income constraints,medium,USA,530,3
+2012–2016,health,health and vulnerability,high,IGO,2639,1
+2012–2016,health,health and vulnerability,high,USA,1483,2
+2012–2016,health,health and vulnerability,high,UK,536,3
+2012–2016,social,welfare and care,medium,IGO,1645,1
+2012–2016,social,welfare and care,medium,EU,631,2
+2012–2016,social,welfare and care,medium,UK,529,3
+2017–2020,air pollution,energy transition and efficiency,high,IGO,922,1
+2017–2020,air pollution,energy transition and efficiency,high,USA,913,2
+2017–2020,air pollution,energy transition and efficiency,high,UK,526,3
+2017–2020,climate,energy transition and efficiency,high,IGO,1531,1
+2017–2020,climate,energy transition and efficiency,high,USA,793,2
+2017–2020,climate,energy transition and efficiency,high,UK,384,3
+2017–2020,climate change,energy transition and efficiency,high,IGO,1122,1
+2017–2020,climate change,energy transition and efficiency,high,USA,552,2
+2017–2020,climate change,energy transition and efficiency,high,UK,295,3
+2017–2020,economic,affordability and income constraints,medium,IGO,2013,1
+2017–2020,economic,affordability and income constraints,medium,EU,680,2
+2017–2020,economic,affordability and income constraints,medium,USA,626,3
+2017–2020,health,health and vulnerability,high,USA,1879,1
+2017–2020,health,health and vulnerability,high,IGO,1594,2
+2017–2020,health,health and vulnerability,high,UK,607,3
+2017–2020,social,welfare and care,medium,IGO,1288,1
+2017–2020,social,welfare and care,medium,EU,978,2
+2017–2020,social,welfare and care,medium,UK,456,3
+2021–2024,air pollution,energy transition and efficiency,high,USA,1510,1
+2021–2024,air pollution,energy transition and efficiency,high,IGO,973,2
+2021–2024,air pollution,energy transition and efficiency,high,EU,693,3
+2021–2024,climate,energy transition and efficiency,high,IGO,2805,1
+2021–2024,climate,energy transition and efficiency,high,EU,1142,2
+2021–2024,climate,energy transition and efficiency,high,USA,1063,3
+2021–2024,climate change,energy transition and efficiency,high,IGO,1989,1
+2021–2024,climate change,energy transition and efficiency,high,UK,763,2
+2021–2024,climate change,energy transition and efficiency,high,USA,691,3
+2021–2024,covid,health and vulnerability,medium,IGO,1942,1
+2021–2024,covid,health and vulnerability,medium,UK,1224,2
+2021–2024,covid,health and vulnerability,medium,USA,937,3
+2021–2024,economic,affordability and income constraints,medium,IGO,1651,1
+2021–2024,economic,affordability and income constraints,medium,EU,1313,2
+2021–2024,economic,affordability and income constraints,medium,USA,477,3
+2021–2024,health,health and vulnerability,high,IGO,1783,1
+2021–2024,health,health and vulnerability,high,USA,1687,2
+2021–2024,health,health and vulnerability,high,UK,811,3

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+~$*.docx
+*.tmp
+.mplconfig/
+outputs/*
+!outputs/.gitkeep
+inputs/raw/*
+!inputs/raw/.gitkeep
+inputs/auxiliary/*
+!inputs/auxiliary/.gitkeep

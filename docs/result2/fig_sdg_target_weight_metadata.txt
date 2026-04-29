@@ -1,0 +1,16 @@
+SDG target weight matrix metadata
+
+Stable source table: /Users/longlab/Documents/New project/common/weights/sdg_target_weights_final_v2.xlsx
+The exported matrix reuses the previously validated stable v2 framework and does not recompute any embedding or weighting step.
+
+final_weight / overall_weight source: /Users/longlab/Documents/New project/common/weights/sdg_target_weights_final_v2.xlsx sheet target_relevance_weights, column weight_final.
+embedding_weight source: /Users/longlab/Documents/New project/common/weights/sdg_target_weights_final_v2.xlsx sheet target_relevance_weights, column weight_embedding; cross-checked against /Users/longlab/Documents/New project/common/weights/sdg_target_weights_embedding.xlsx column relevance_weight.
+policy_weight source: the existing binary policy filter in the stable v2 table (column filter), exported here as policy_weight.
+Additional retained intermediate columns: weight_pre_norm, embedding_similarity, final_weight_v1, rank_embedding, rank_final_v2, rank_change.
+
+Normalization:
+The stable v2 method had already applied normalization to produce weight_final in [0,1].
+weight_pre_norm is the existing pre-normalization intermediate from the same stable v2 workbook.
+
+Target total: 34
+Target set was not changed, expanded, or recomputed.

@@ -1,0 +1,19 @@
+period,keyword,category,mechanism_relevance,mention_count,rank_in_period
+2012–2016,health,health and vulnerability,high,5885,1
+2012–2016,economic,affordability and income constraints,medium,5038,2
+2012–2016,social,welfare and care,medium,3962,3
+2012–2016,climate,energy transition and efficiency,high,3683,4
+2012–2016,climate change,energy transition and efficiency,high,2861,5
+2012–2016,child,welfare and care,medium,2578,6
+2017–2020,health,health and vulnerability,high,5178,1
+2017–2020,economic,affordability and income constraints,medium,4694,2
+2017–2020,climate,energy transition and efficiency,high,4402,3
+2017–2020,social,welfare and care,medium,3836,4
+2017–2020,air pollution,energy transition and efficiency,high,3259,5
+2017–2020,climate change,energy transition and efficiency,high,3105,6
+2021–2024,climate,energy transition and efficiency,high,8367,1
+2021–2024,covid,health and vulnerability,medium,6383,2
+2021–2024,climate change,energy transition and efficiency,high,5739,3
+2021–2024,health,health and vulnerability,high,5678,4
+2021–2024,economic,affordability and income constraints,medium,4676,5
+2021–2024,air pollution,energy transition and efficiency,high,4536,6

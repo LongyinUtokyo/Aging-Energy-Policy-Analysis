@@ -1,0 +1,31 @@
+category,Source country,mention_count,rank_in_category
+affordability and income constraints,IGO,14931,1
+affordability and income constraints,EU,7132,2
+affordability and income constraints,USA,6212,3
+affordability and income constraints,UK,5015,4
+affordability and income constraints,Australia,1046,5
+energy transition and efficiency,IGO,20633,1
+energy transition and efficiency,USA,11121,2
+energy transition and efficiency,UK,6280,3
+energy transition and efficiency,EU,6228,4
+energy transition and efficiency,Australia,1587,5
+health and vulnerability,IGO,15805,1
+health and vulnerability,USA,11645,2
+health and vulnerability,UK,7914,3
+health and vulnerability,EU,4764,4
+health and vulnerability,Australia,2038,5
+household behaviour and adoption,USA,4342,1
+household behaviour and adoption,UK,1842,2
+household behaviour and adoption,IGO,1631,3
+household behaviour and adoption,Australia,453,4
+household behaviour and adoption,EU,390,5
+housing and thermal comfort,USA,8474,1
+housing and thermal comfort,UK,1695,2
+housing and thermal comfort,IGO,976,3
+housing and thermal comfort,Australia,634,4
+housing and thermal comfort,Canada,493,5
+welfare and care,IGO,9366,1
+welfare and care,USA,6507,2
+welfare and care,UK,4400,3
+welfare and care,EU,4385,4
+welfare and care,Ireland,724,5

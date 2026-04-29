@@ -1,0 +1,4 @@
+breakpoint_end_year,next_phase_start_year,transition,source,bic_comparison_available,note
+1947,1948,Phase 1→2,results_1/scripts/build_figure1_quantitative_package.py,False,Exact candidate-model BIC table was not found among saved outputs.
+1971,1972,Phase 2→3,results_1/scripts/build_figure1_quantitative_package.py,False,Exact candidate-model BIC table was not found among saved outputs.
+1993,1994,Phase 3→4,results_1/scripts/build_figure1_quantitative_package.py,False,Exact candidate-model BIC table was not found among saved outputs.

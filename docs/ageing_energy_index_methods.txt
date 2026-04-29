@@ -1,0 +1,27 @@
+Ageing-energy SDG index methods
+
+Formula used:
+A_d = [sum_j (w_j * I_dj)] / [sum_j I_dj]
+where w_j is the SDG target relevance weight and I_dj = 1 when document d is linked to weighted target j.
+
+Weight construction:
+Weights were generated locally using TF-IDF with English stop words and 1-2 grams.
+A combined reference corpus was formed by concatenating the supplied ageing corpus and energy corpus.
+Cosine similarity was computed between each SDG target text and the combined reference corpus, then min-max normalized to [0,1].
+
+Handling of documents with no matched targets:
+Documents with no SDG targets present in the weighted target set received AgeingEnergy_SDG_RawSum = 0 and AgeingEnergy_SDG_Index = missing (NaN).
+These documents were retained in the document-level sheet but excluded from aggregated mean/median/std/sum calculations.
+
+Normalization rule:
+The main index is the normalized weighted average across matched targets in each document.
+The raw sum of matched target weights was also computed and retained at document level.
+
+Phase definition:
+Phase 1 = 1869-1947
+Phase 2 = 1948-1971
+Phase 3 = 1972-1993
+Phase 4 = 1994-2024
+
+Aggregations:
+Country, year, phase, country-phase, and country-year summaries are based on documents with non-missing normalized index values.
