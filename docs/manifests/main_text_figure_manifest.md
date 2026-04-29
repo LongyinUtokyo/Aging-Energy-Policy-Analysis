@@ -2,6 +2,8 @@
 
 This manifest records the current manuscript figure numbering and the corresponding scripts, compact data, and retained figure assets.
 
+Manuscript version checked: `/Users/longlab/Desktop/Aging Energy/Submit0429/Global_ageing_v8.docx`.
+
 ## Current figure numbering
 
 | Figure | Result block | Working folder |

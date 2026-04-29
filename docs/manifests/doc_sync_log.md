@@ -6,6 +6,7 @@
 |---|---|
 | Working location | Switched active package work to `/Users/longlab/Desktop/Aging Energy/github_results123_policy_package/`. |
 | Source package | Copied from `/Users/longlab/Documents/New project/github_results123_policy_package/`. |
+| Manuscript version checked | Confirmed against `/Users/longlab/Desktop/Aging Energy/Submit0429/Global_ageing_v8.docx`. |
 | Figure scripts | Refreshed current manuscript figure scripts from `/Users/longlab/Desktop/Aging Energy/working_project/07_figures_working/current_manuscript_figures/`. |
 | Figure numbering | Updated documentation to current numbering: Figure 1, Figure 2, Figure 3, Figure 4. |
 | Figure 3 | Recorded current panel b-c script: `scripts/main_figures/figure3/make_figure3_panel_b_c_maps.py`. |
